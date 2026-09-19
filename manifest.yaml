@@ -1,0 +1,60 @@
+id: album_journey_mvp
+type: experiment
+name: Local Album Journey MVP
+version: 0.1.0
+status: active
+owner: Pedro
+description: >
+  A local-first, containerized planning experiment for an album-discovery
+  website. The intended MVP imports the attributed, CC BY-SA derived
+  Discoteca Básica 500-album ranking from the Portuguese Wikipedia REST API,
+  persists it in local PostgreSQL, and presents it through an
+  application-owned JSON API.
+
+template: templates/experiments_domain
+promotion_target: workspace/side_projects
+
+depends_on:
+  - registry
+
+reference_inputs:
+  - docs
+  - knowledge/technology
+  - templates/experiments_domain
+
+interfaces_under_evaluation:
+  - local_web_ui
+  - local_json_api
+  - local_postgresql
+  - container_orchestration
+  - attributed_catalogue_import
+
+data_boundary:
+  catalogue_content: attributed_cc_by_sa_objective_data_only
+  listening_history: local_application_private
+  reviews: private_by_default
+  external_source_access: explicit_permitted_read_only
+  personal_data_export: prohibited
+  credentials: local_ignored_only
+
+experiment_parameters:
+  runtime_mode: local_first
+  execution_model: manual_or_containerized
+  persistent_server: local_only_under_evaluation
+  containers: required_for_implementation
+  external_deployment: prohibited_in_mvp
+  source_scraping: prohibited
+  selected_catalogue_source: wikipedia_rest_html
+  retention_policy: experiment_contracts_versioned_runtime_data_local
+
+interfaces:
+  behavior_contract: workspace/experiments/album_journey_mvp/BEHAVIOR.md
+  decision_log: workspace/experiments/album_journey_mvp/DECISIONS.md
+  container_orchestration: workspace/experiments/album_journey_mvp/compose.yaml
+  database_design: workspace/experiments/album_journey_mvp/DATABASE_DESIGN.md
+  api_selection_design: workspace/experiments/album_journey_mvp/API_SELECTION_DESIGN.md
+  quality_strategy: workspace/experiments/album_journey_mvp/QUALITY_STRATEGY.md
+  implementation_plan: workspace/experiments/album_journey_mvp/IMPLEMENTATION_PLAN.md
+  agent_specifications: workspace/experiments/album_journey_mvp/AGENT_SPECIFICATIONS.md
+  audit_log: workspace/experiments/album_journey_mvp/AUDIT.md
+  traceability_log: workspace/experiments/album_journey_mvp/TRACEABILITY.md
