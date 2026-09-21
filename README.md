@@ -1,29 +1,54 @@
-# Album Journey MVP
+# 500 Discos Brasileiros
 
-Run the manual selector with Python 3:
+A deliberately small, local-first album journey. Each journey gets a stable,
+human-readable URL such as `/journey/um-ano-e-meio-de-musica`; no login or
+application token is needed on the loopback-only MVP.
+
+## Run
 
 ```bash
-python3 random_album.py
+cp .env.example .env
+docker compose up --build -d --wait
 ```
 
-It makes one read-only request to the approved Portuguese Wikipedia REST HTML
-source, validates the complete 500-rank table, prints a random album and its
-required CC BY-SA attribution, and does not retain the response. Use
-`--seed 42` for a repeatable selection.
+Open `http://127.0.0.1:5174`. One FastAPI container serves the HTML/CSS/JS,
+JSON API, reviewed 500-album catalogue, and a persistent SQLite database. It
+uses Docker host networking only to bind Uvicorn directly to that loopback
+address; no service is exposed on a non-loopback interface.
 
-## Catalogue import API
+For local development:
 
-`POST /api/v1/catalog/imports` is the only catalogue-import entry point. It
-accepts `{ "dry_run": true|false }`, requires `Idempotency-Key` and the local
-operator's `X-Operator-Token`, and always fetches the single approved
-Portuguese Wikipedia REST HTML URL; callers cannot supply a URL or payload.
-Set `ALBUM_IMPORT_OPERATOR_TOKEN` for the API process before using it. A
-dry-run validates and reports the normalized SHA-256 and CC BY-SA provenance
-without persistence. A non-dry run validates all ranks 1–500 before one
-atomic snapshot upsert. Raw source HTML is transient and is neither stored nor
-logged.
+```bash
+cd api
+python -m venv .venv
+.venv/bin/pip install -r requirements-dev.txt
+.venv/bin/pytest
+ALBUM_JOURNEY_DB=/tmp/album-journey.db .venv/bin/uvicorn app.main:app --reload --port 5174
+```
 
-The current import boundary uses an in-memory transactional reference adapter
-until the PostgreSQL adapter from the database workstream is connected. Its
-`CatalogueRepository` protocol records the required production transaction and
-idempotency contract; it is not a substitute for persistent catalogue storage.
+## Data and privacy
+
+The runtime never contacts Wikipedia, MusicBrainz, Cover Art Archive, or another catalogue provider. The
+release includes one normalized, attributed CC BY-SA seed; the browser displays
+its attribution. Journey names, daily assignments, ratings, and reviews remain
+in the local SQLite volume and are never sent to external services.
+
+Optional cover thumbnails are imported only during release preparation and then
+served from `/static/covers/` alongside the app. Run `python3 scripts/import_cover_art.py`
+from the project root to perform that explicit, rate-limited operation; it
+keeps unmatched albums on the built-in cover fallback.
+
+The URL selects a local journey, not an authenticated public account. Before
+any public deployment, add an explicit identity/privacy design, TLS, encrypted
+backup storage, retention policy, abuse controls, and an incident owner.
+
+`BACKUP_DIR=/secure/path make backup` creates a private SQL snapshot. Restore
+is intentionally destructive and requires `BACKUP_FILE=/path/file.sql.gz make
+restore`.
+
+## Why this shape
+
+The MVP has one process, one image, one volume, no Node production build, no
+reverse proxy, no database server, and no credentials. SQLite is appropriate
+for this single-process, low-write workload; move to a client/server database
+only if measured concurrency or multi-instance deployment requires it.

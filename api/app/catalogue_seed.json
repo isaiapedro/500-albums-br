@@ -1,0 +1,3513 @@
+{
+  "schema_version": 1,
+  "catalogue_version": "discoteca-basica-500-a24e821ea498",
+  "provenance": {
+    "source_url": "https://pt.wikipedia.org/api/rest_v1/page/html/Lista_dos_500_maiores_discos_da_m%C3%BAsica_brasileira_pelo_Discoteca_B%C3%A1sica",
+    "source_title": "Lista dos 500 maiores discos da música brasileira pelo Discoteca Básica",
+    "license": "CC BY-SA",
+    "retrieved_at": "2026-09-20T00:01:22.522127Z",
+    "normalized_content_sha256": "a24e821ea498bfa7ce0a5d61e1126f96924a3095f66f35b0e6ff35edb33076b4"
+  },
+  "albums": [
+    {
+      "id": "05bd6bdf-5f21-5061-856b-a825589cc0bf",
+      "rank": 1,
+      "title": "Clube da Esquina",
+      "release_year": 1972,
+      "artist_credit": "Milton Nascimento e Lô Borges"
+    },
+    {
+      "id": "aa22951e-5812-59ac-b14b-0bab3d0c03ba",
+      "rank": 2,
+      "title": "Acabou Chorare",
+      "release_year": 1972,
+      "artist_credit": "Novos Baianos"
+    },
+    {
+      "id": "acbdf611-ea6f-5536-97e4-e8b9b96f4c2c",
+      "rank": 3,
+      "title": "Chega de Saudade",
+      "release_year": 1959,
+      "artist_credit": "João Gilberto"
+    },
+    {
+      "id": "274b6d21-267b-5e30-bb2a-c1c927cc32c7",
+      "rank": 4,
+      "title": "Secos & Molhados",
+      "release_year": 1973,
+      "artist_credit": "Secos & Molhados"
+    },
+    {
+      "id": "ca14d6cb-dce0-587f-824d-07c85bfb88f0",
+      "rank": 5,
+      "title": "Construção",
+      "release_year": 1971,
+      "artist_credit": "Chico Buarque"
+    },
+    {
+      "id": "0542097b-3e28-5dae-b909-fe4ef20fedad",
+      "rank": 6,
+      "title": "A Tábua de Esmeralda",
+      "release_year": 1974,
+      "artist_credit": "Jorge Ben Jor"
+    },
+    {
+      "id": "e415cc92-350a-5e4d-82b7-15228bdb998d",
+      "rank": 7,
+      "title": "Tropicalia ou Panis et Circencis",
+      "release_year": 1968,
+      "artist_credit": "Caetano Veloso, Gilberto Gil, Gal Costa, Tom Zé, Os Mutantes, Nara Leão, Torquato Neto, Capinam e Rogério Duprat"
+    },
+    {
+      "id": "da49f945-5932-5af8-856a-af97f9691d1d",
+      "rank": 8,
+      "title": "Transa",
+      "release_year": 1972,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "1f86ae79-0449-5b19-ab95-255cf2f4f584",
+      "rank": 9,
+      "title": "Sobrevivendo no Inferno",
+      "release_year": 1997,
+      "artist_credit": "Racionais MC's"
+    },
+    {
+      "id": "4b9819e7-7945-575e-9147-bb52c3f9277b",
+      "rank": 10,
+      "title": "Elis & Tom",
+      "release_year": 1974,
+      "artist_credit": "Elis Regina e Tom Jobim"
+    },
+    {
+      "id": "b1a832cf-e806-5811-9d44-4e29dfa5d5f0",
+      "rank": 11,
+      "title": "Cartola",
+      "release_year": 1976,
+      "artist_credit": "Cartola"
+    },
+    {
+      "id": "5f7e1750-801c-5356-b086-10e8bfdd9928",
+      "rank": 12,
+      "title": "Cabeça Dinossauro",
+      "release_year": 1986,
+      "artist_credit": "Titãs"
+    },
+    {
+      "id": "228fb33f-846a-5146-bd53-adb944c74780",
+      "rank": 13,
+      "title": "Os Afro-Sambas",
+      "release_year": 1966,
+      "artist_credit": "Baden Powell e Vinicius de Moraes"
+    },
+    {
+      "id": "574acc43-3597-5cd7-8765-0f56cf233332",
+      "rank": 14,
+      "title": "Os Mutantes",
+      "release_year": 1968,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "90cab288-8c31-5fad-bc77-88c17d227507",
+      "rank": 15,
+      "title": "Fruto Proibido",
+      "release_year": 1975,
+      "artist_credit": "Rita Lee e Tutti Frutti"
+    },
+    {
+      "id": "a2f72a75-4c04-5670-a411-cf4c38f56fd9",
+      "rank": 16,
+      "title": "Alucinação",
+      "release_year": 1976,
+      "artist_credit": "Belchior"
+    },
+    {
+      "id": "df550770-d26d-5f83-9e6c-989540d052b1",
+      "rank": 17,
+      "title": "Da Lama ao Caos",
+      "release_year": 1994,
+      "artist_credit": "Chico Science e Nação Zumbi"
+    },
+    {
+      "id": "871deaad-3e4a-5703-a276-4d3663fc7242",
+      "rank": 18,
+      "title": "Krig-ha, Bandolo!",
+      "release_year": 1973,
+      "artist_credit": "Raul Seixas"
+    },
+    {
+      "id": "6f103282-c62e-5b9e-8d90-e03cdc325ce6",
+      "rank": 19,
+      "title": "Carlos, Erasmo",
+      "release_year": 1971,
+      "artist_credit": "Erasmo Carlos"
+    },
+    {
+      "id": "660293a4-314c-5d85-9e2b-9b69eb358054",
+      "rank": 20,
+      "title": "Tim Maia",
+      "release_year": 1970,
+      "artist_credit": "Tim Maia"
+    },
+    {
+      "id": "cdb4a76b-8b18-5ae6-ba39-63dcd47fc7da",
+      "rank": 21,
+      "title": "Pérola Negra",
+      "release_year": 1973,
+      "artist_credit": "Luiz Melodia"
+    },
+    {
+      "id": "05f821cc-0fc2-5c57-a97f-da7293986e0d",
+      "rank": 22,
+      "title": "Gal a Todo Vapor",
+      "release_year": 1971,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "3de61c79-9f33-5503-8f49-e772d38d4d02",
+      "rank": 23,
+      "title": "Expresso 2222",
+      "release_year": 1972,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "4e95adf7-563b-596a-bd03-111641ebe5d2",
+      "rank": 24,
+      "title": "Selvagem?",
+      "release_year": 1986,
+      "artist_credit": "Os Paralamas do Sucesso"
+    },
+    {
+      "id": "06f4957a-a84f-5031-947d-207586155660",
+      "rank": 25,
+      "title": "Coisas",
+      "release_year": 1965,
+      "artist_credit": "Moacir Santos"
+    },
+    {
+      "id": "3c973f95-80a5-5d56-b3fe-ac339ba6be57",
+      "rank": 26,
+      "title": "Dois",
+      "release_year": 1986,
+      "artist_credit": "Legião Urbana"
+    },
+    {
+      "id": "7305cdcd-59ab-50e7-aeac-1a8c3fe675f4",
+      "rank": 27,
+      "title": "Tim Maia Racional, Vol. 1",
+      "release_year": 1975,
+      "artist_credit": "Tim Maia"
+    },
+    {
+      "id": "764feee0-8f81-5f24-8b37-5b3c02cedae5",
+      "rank": 28,
+      "title": "Canções Praieiras",
+      "release_year": 1954,
+      "artist_credit": "Dorival Caymmi"
+    },
+    {
+      "id": "200f4c4f-f633-5390-bdd3-ffd9e9b33c64",
+      "rank": 29,
+      "title": "Lóki?",
+      "release_year": 1975,
+      "artist_credit": "Arnaldo Baptista"
+    },
+    {
+      "id": "2ef7a6ba-fb05-5b3e-9b09-68c473ef0f6b",
+      "rank": 30,
+      "title": "Samba Esquema Novo",
+      "release_year": 1963,
+      "artist_credit": "Jorge Ben Jor"
+    },
+    {
+      "id": "4740249f-62c6-5917-b832-c759277a3611",
+      "rank": 31,
+      "title": "Roberto Carlos",
+      "release_year": 1971,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "b65ce8f6-c4c9-5282-9c42-1ca3f75bbcb1",
+      "rank": 32,
+      "title": "Falso Brilhante",
+      "release_year": 1976,
+      "artist_credit": "Elis Regina"
+    },
+    {
+      "id": "e1e29e1b-c505-5a4b-96d5-08effb4e4c57",
+      "rank": 33,
+      "title": "A Divina Comédia ou Ando Meio Desligado",
+      "release_year": 1970,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "57c60286-7850-5381-b25f-8f48e2c0f9ef",
+      "rank": 34,
+      "title": "Refazenda",
+      "release_year": 1975,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "b54a4221-762d-5b8c-8bb1-6e1ea5f3bfb8",
+      "rank": 35,
+      "title": "Cartola",
+      "release_year": 1974,
+      "artist_credit": "Cartola"
+    },
+    {
+      "id": "8cf6c3cf-317e-571b-b468-8fc61a8e8547",
+      "rank": 36,
+      "title": "Estudando o Samba",
+      "release_year": 1976,
+      "artist_credit": "Tom Zé"
+    },
+    {
+      "id": "da2e2e55-a213-50c8-b1d9-5bd769bab2d5",
+      "rank": 37,
+      "title": "Roots",
+      "release_year": 1996,
+      "artist_credit": "Sepultura"
+    },
+    {
+      "id": "2991826b-e005-53c6-84be-2379e4316847",
+      "rank": 38,
+      "title": "Maria Fumaça",
+      "release_year": 1977,
+      "artist_credit": "Banda Black Rio"
+    },
+    {
+      "id": "11057933-1421-5b0d-9815-1d85484aa3df",
+      "rank": 39,
+      "title": "Mutantes",
+      "release_year": 1969,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "b702293c-bc61-5ff0-b03d-7e1e48625922",
+      "rank": 40,
+      "title": "A História do Nordeste na Voz de Luiz Gonzaga",
+      "release_year": 1955,
+      "artist_credit": "Luiz Gonzaga"
+    },
+    {
+      "id": "68b7e13c-24b7-5f25-a29b-17bd128435f5",
+      "rank": 41,
+      "title": "Getz/Gilberto",
+      "release_year": 1964,
+      "artist_credit": "Stan Getz e João Gilberto"
+    },
+    {
+      "id": "b8ca1b05-fca3-5ffa-a14c-1d567f5e11a3",
+      "rank": 42,
+      "title": "África Brasil",
+      "release_year": 1976,
+      "artist_credit": "Jorge Ben Jor"
+    },
+    {
+      "id": "65b01436-d197-5cf7-86c4-0f3bddf8b53b",
+      "rank": 43,
+      "title": "Beleléu, Leléu, Eu",
+      "release_year": 1980,
+      "artist_credit": "Itamar Assumpção"
+    },
+    {
+      "id": "67c3dbee-e134-533c-b387-c373a65ca172",
+      "rank": 44,
+      "title": "Refavela",
+      "release_year": 1977,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "65879323-faa8-5210-a7cd-250828ac756a",
+      "rank": 45,
+      "title": "A Mulher do Fim do Mundo",
+      "release_year": 2015,
+      "artist_credit": "Elza Soares"
+    },
+    {
+      "id": "1186bde0-c9fe-5301-a2da-5347925a2ec3",
+      "rank": 46,
+      "title": "Clara Crocodilo",
+      "release_year": 1980,
+      "artist_credit": "Arrigo Barnabé"
+    },
+    {
+      "id": "f1d7035b-5324-55f9-8c39-9a6e85a83b80",
+      "rank": 47,
+      "title": "Afrociberdelia",
+      "release_year": 1996,
+      "artist_credit": "Chico Science & Nação Zumbi"
+    },
+    {
+      "id": "af5ad56c-3be8-5432-a66e-b82aad6bad79",
+      "rank": 48,
+      "title": "Roberto Carlos em Ritmo de Aventura",
+      "release_year": 1967,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "ef2cfd83-f5bc-553e-aa9f-4022743c4896",
+      "rank": 49,
+      "title": "Gal Costa",
+      "release_year": 1969,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "edc52f8f-a077-53eb-b722-181e55c5c60f",
+      "rank": 50,
+      "title": "Caymmi e Seu Violão",
+      "release_year": 1959,
+      "artist_credit": "Dorival Caymmi"
+    },
+    {
+      "id": "e8f6aff4-4d44-5534-8a87-bac795ae7561",
+      "rank": 51,
+      "title": "Minas",
+      "release_year": 1975,
+      "artist_credit": "Milton Nascimento"
+    },
+    {
+      "id": "59f3c5da-84d3-55ac-9a53-0e5bc2f8b2f3",
+      "rank": 52,
+      "title": "Usuário",
+      "release_year": 1995,
+      "artist_credit": "Planet Hemp"
+    },
+    {
+      "id": "93f0f5ee-d185-50c2-9fb6-d8d963616039",
+      "rank": 53,
+      "title": "As Aventuras da Blitz",
+      "release_year": 1982,
+      "artist_credit": "Blitz"
+    },
+    {
+      "id": "9871d3b1-8462-5ac9-8ec5-717dbd1957ae",
+      "rank": 54,
+      "title": "Caetano Veloso",
+      "release_year": 1968,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "533fc633-9da2-559f-8b4f-7f4341282570",
+      "rank": 55,
+      "title": "Rita Lee",
+      "release_year": 1980,
+      "artist_credit": "Rita Lee"
+    },
+    {
+      "id": "b3ae5ace-32d8-53b9-a27e-610523688b79",
+      "rank": 56,
+      "title": "O Passo do Lui",
+      "release_year": 1984,
+      "artist_credit": "Os Paralamas do Sucesso"
+    },
+    {
+      "id": "10087b5b-f861-513f-817d-0d506c8a62e9",
+      "rank": 57,
+      "title": "Bloco do Eu Sozinho",
+      "release_year": 2001,
+      "artist_credit": "Los Hermanos"
+    },
+    {
+      "id": "0b323a21-3f16-5118-9e95-1efd40ed2cb0",
+      "rank": 58,
+      "title": "Realce",
+      "release_year": 1979,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "9d20402d-f9d2-59fd-93bf-72d621cc21df",
+      "rank": 59,
+      "title": "Gal",
+      "release_year": 1969,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "b2886bf6-722d-592b-95e8-2fb04d453fe8",
+      "rank": 60,
+      "title": "Ventura",
+      "release_year": 2003,
+      "artist_credit": "Los Hermanos"
+    },
+    {
+      "id": "2464ee1b-691c-5cb9-83e3-d322d6bbba82",
+      "rank": 61,
+      "title": "Amoroso",
+      "release_year": 1977,
+      "artist_credit": "João Gilberto"
+    },
+    {
+      "id": "cf22ccd9-e1f7-570e-97a6-a3e05874359b",
+      "rank": 62,
+      "title": "Gilberto Gil",
+      "release_year": 1968,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "73849d0d-ed5e-5fd9-baa4-8bec22b0f305",
+      "rank": 63,
+      "title": "Tim Maia Racional, Vol. 2",
+      "release_year": 1975,
+      "artist_credit": "Tim Maia"
+    },
+    {
+      "id": "c035d28e-b18a-5e97-a9bd-1d293f24d62c",
+      "rank": 64,
+      "title": "The Composer of Desafinado, Plays",
+      "release_year": 1963,
+      "artist_credit": "Tom Jobim"
+    },
+    {
+      "id": "18745c14-2362-5909-bcb2-601605251fc9",
+      "rank": 65,
+      "title": "Nó na Orelha",
+      "release_year": 2011,
+      "artist_credit": "Criolo"
+    },
+    {
+      "id": "cef9c5cc-4413-5072-9cd6-72d93cd32ffd",
+      "rank": 66,
+      "title": "Verde Anil Amarelo Cor de Rosa e Carvão",
+      "release_year": 1994,
+      "artist_credit": "Marisa Monte"
+    },
+    {
+      "id": "0d09df28-2910-51f6-a944-574b4d282cf9",
+      "rank": 67,
+      "title": "Nós Vamos Invadir sua Praia",
+      "release_year": 1985,
+      "artist_credit": "Ultraje a Rigor"
+    },
+    {
+      "id": "59190503-0634-5c26-ac2d-f7f94b5927bc",
+      "rank": 68,
+      "title": "Cinema Transcendental",
+      "release_year": 1979,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "e201f5a2-f079-5807-8526-1d63706074a6",
+      "rank": 69,
+      "title": "Canção do Amor Demais",
+      "release_year": 1958,
+      "artist_credit": "Elizeth Cardoso"
+    },
+    {
+      "id": "3cdf95e5-a398-50d6-a3b7-dc51083548c9",
+      "rank": 70,
+      "title": "Zé Ramalho",
+      "release_year": 1978,
+      "artist_credit": "Zé Ramalho"
+    },
+    {
+      "id": "969b8162-04b0-57e8-99fa-14cbd0625dfe",
+      "rank": 71,
+      "title": "João Gilberto",
+      "release_year": 1973,
+      "artist_credit": "João Gilberto"
+    },
+    {
+      "id": "548361b6-fb0e-51d0-bc6e-726c7f629167",
+      "rank": 72,
+      "title": "Angela Ro Ro",
+      "release_year": 1979,
+      "artist_credit": "Angela Ro Ro"
+    },
+    {
+      "id": "4c17a99c-0633-55c5-9c7e-34bbf3dfc62b",
+      "rank": 73,
+      "title": "Meus Caros Amigos",
+      "release_year": 1976,
+      "artist_credit": "Chico Buarque"
+    },
+    {
+      "id": "bd1866da-250b-5cd9-b089-17c723e227dc",
+      "rank": 74,
+      "title": "Lado B Lado A",
+      "release_year": 1999,
+      "artist_credit": "O Rappa"
+    },
+    {
+      "id": "cc70598a-f011-5cb9-845c-044bc646ce27",
+      "rank": 75,
+      "title": "Nervos de Aço",
+      "release_year": 1973,
+      "artist_credit": "Paulinho da Viola"
+    },
+    {
+      "id": "9ed951b1-c849-52c9-99f9-cb12825c6408",
+      "rank": 76,
+      "title": "Tempos Modernos",
+      "release_year": 1982,
+      "artist_credit": "Lulu Santos"
+    },
+    {
+      "id": "4fffa001-b26e-5dad-88a3-9afb550cdf4c",
+      "rank": 77,
+      "title": "Quem é Quem",
+      "release_year": 1973,
+      "artist_credit": "João Donato"
+    },
+    {
+      "id": "d6687402-a06e-5523-bed6-db8a335200c7",
+      "rank": 78,
+      "title": "Revoluções por Minuto",
+      "release_year": 1985,
+      "artist_credit": "RPM"
+    },
+    {
+      "id": "fbdaa0c4-c655-5831-80b3-c883041f6c74",
+      "rank": 79,
+      "title": "Wave",
+      "release_year": 1967,
+      "artist_credit": "Tom Jobim"
+    },
+    {
+      "id": "97f54261-3bbc-5fd3-a42f-28bf149dc02d",
+      "rank": 80,
+      "title": "Cuban Soul: 18 Kilates",
+      "release_year": 1976,
+      "artist_credit": "Cassiano"
+    },
+    {
+      "id": "c8110ebe-725e-5765-9243-ac53f6f478ed",
+      "rank": 81,
+      "title": "Legião Urbana",
+      "release_year": 1985,
+      "artist_credit": "Legião Urbana"
+    },
+    {
+      "id": "3c297374-deef-5bf7-9bf3-27e5bf27e8c3",
+      "rank": 82,
+      "title": "Ogum Xangô",
+      "release_year": 1975,
+      "artist_credit": "Gilberto Gil e Jorge Ben Jor"
+    },
+    {
+      "id": "255e94cc-5aa5-56c4-ab73-100f1d55707c",
+      "rank": 83,
+      "title": "Tim Maia",
+      "release_year": 1971,
+      "artist_credit": "Tim Maia"
+    },
+    {
+      "id": "f2dd1c6d-5881-5660-a390-a502401249ee",
+      "rank": 84,
+      "title": "Todos os Olhos",
+      "release_year": 1973,
+      "artist_credit": "Tom Zé"
+    },
+    {
+      "id": "bdfa0f82-ffed-5e0b-bcf0-c7c17ebce240",
+      "rank": 85,
+      "title": "À Procura da Batida Perfeita",
+      "release_year": 2003,
+      "artist_credit": "Marcelo D2"
+    },
+    {
+      "id": "22471ecc-9084-5145-9080-a4ba05cc5c25",
+      "rank": 86,
+      "title": "Revolver",
+      "release_year": 1975,
+      "artist_credit": "Walter Franco"
+    },
+    {
+      "id": "704a9924-4896-556f-bbf9-4b3fcd6bc37b",
+      "rank": 87,
+      "title": "A Dança da Solidão",
+      "release_year": 1972,
+      "artist_credit": "Paulinho da Viola"
+    },
+    {
+      "id": "dd0352bc-d2ae-560e-b688-036b0e8d4d34",
+      "rank": 88,
+      "title": "Jards Macalé",
+      "release_year": 1972,
+      "artist_credit": "Jards Macalé"
+    },
+    {
+      "id": "74b91011-37c6-5660-8c54-d1b5cba2c54c",
+      "rank": 89,
+      "title": "Eu Quero É Botar meu Bloco na Rua",
+      "release_year": 1973,
+      "artist_credit": "Sérgio Sampaio"
+    },
+    {
+      "id": "39d6ae49-69d5-5e0b-9779-5d43b555622a",
+      "rank": 90,
+      "title": "Raimundos",
+      "release_year": 1994,
+      "artist_credit": "Raimundos"
+    },
+    {
+      "id": "6e939052-fb92-52cb-bff6-1d8084867cac",
+      "rank": 91,
+      "title": "Jardim Elétrico",
+      "release_year": 1971,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "26676ae5-ad41-5495-83cd-2380c042373f",
+      "rank": 92,
+      "title": "Caça à Raposa",
+      "release_year": 1975,
+      "artist_credit": "João Bosco"
+    },
+    {
+      "id": "e7b9887f-a9ac-5f92-9e6f-eef3b235026d",
+      "rank": 93,
+      "title": "Guilherme Arantes",
+      "release_year": 1976,
+      "artist_credit": "Guilherme Arantes"
+    },
+    {
+      "id": "b277d959-0855-52c6-911f-3fcc11c8fe9e",
+      "rank": 94,
+      "title": "Rap é Compromisso",
+      "release_year": 2001,
+      "artist_credit": "Sabotage"
+    },
+    {
+      "id": "e6000814-b20d-5e78-8a89-a815441b9179",
+      "rank": 95,
+      "title": "Álibi",
+      "release_year": 1978,
+      "artist_credit": "Maria Bethânia"
+    },
+    {
+      "id": "aaa7424a-8c2a-5ff8-a092-05759195bfba",
+      "rank": 96,
+      "title": "Robson Jorge & Lincoln Olivetti",
+      "release_year": 1982,
+      "artist_credit": "Robson Jorge e Lincoln Olivetti"
+    },
+    {
+      "id": "981dd8e3-0575-5519-94c4-44ec2054ceb1",
+      "rank": 97,
+      "title": "Matita Perê",
+      "release_year": 1973,
+      "artist_credit": "Tom Jobim"
+    },
+    {
+      "id": "6a0bf421-465c-5b7c-b4ed-895a52444991",
+      "rank": 98,
+      "title": "Os Tincoãs",
+      "release_year": 1973,
+      "artist_credit": "Os Tincoãs"
+    },
+    {
+      "id": "0086c174-37c4-577d-b002-eefc15217375",
+      "rank": 99,
+      "title": "Canta Canta, Minha Gente",
+      "release_year": 1974,
+      "artist_credit": "Martinho da Vila"
+    },
+    {
+      "id": "d3da1140-65dd-5c76-b034-cbab8ee4ef0f",
+      "rank": 100,
+      "title": "Tribalistas",
+      "release_year": 2002,
+      "artist_credit": "Tribalistas"
+    },
+    {
+      "id": "494cf771-3a8f-5705-9fe6-b84aa580d2e2",
+      "rank": 101,
+      "title": "Chaos A.D.",
+      "release_year": 1993,
+      "artist_credit": "Sepultura"
+    },
+    {
+      "id": "25e114d5-b5b1-5aac-be65-c5223bc0ccd3",
+      "rank": 102,
+      "title": "Circense",
+      "release_year": 1980,
+      "artist_credit": "Egberto Gismonti"
+    },
+    {
+      "id": "9d7d1503-1a7e-5b73-a40c-a0d0e5d4f4b1",
+      "rank": 103,
+      "title": "Lô Borges",
+      "release_year": 1972,
+      "artist_credit": "Lô Borges"
+    },
+    {
+      "id": "2959e605-7dcb-5184-a8c9-43ec190ee3cd",
+      "rank": 104,
+      "title": "AmarElo",
+      "release_year": 2019,
+      "artist_credit": "Emicida"
+    },
+    {
+      "id": "7f574b2c-0e31-547f-be04-7e9a762c6451",
+      "rank": 105,
+      "title": "Vivendo e Não Aprendendo",
+      "release_year": 1986,
+      "artist_credit": "Ira!"
+    },
+    {
+      "id": "8e7bf621-9755-5fba-806b-a808fda726c5",
+      "rank": 106,
+      "title": "Gita",
+      "release_year": 1974,
+      "artist_credit": "Raul Seixas"
+    },
+    {
+      "id": "4c355368-9744-5cf9-bf01-02d2b3c303f2",
+      "rank": 107,
+      "title": "Milagre dos Peixes",
+      "release_year": 1973,
+      "artist_credit": "Milton Nascimento"
+    },
+    {
+      "id": "2d0d576b-b8c4-57b7-8c3a-5d1e92bd1270",
+      "rank": 108,
+      "title": "Maior Abandonado",
+      "release_year": 1984,
+      "artist_credit": "Barão Vermelho"
+    },
+    {
+      "id": "f1e5893e-e1f0-5077-8ed3-ebba9b053606",
+      "rank": 109,
+      "title": "É Proibido Fumar",
+      "release_year": 1964,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "aa82a1c6-dd61-5e1d-8b21-339295530c9d",
+      "rank": 110,
+      "title": "O Tempo Não Para",
+      "release_year": 1988,
+      "artist_credit": "Cazuza"
+    },
+    {
+      "id": "d977730c-6868-5220-9ce5-5502f582ab16",
+      "rank": 111,
+      "title": "Foi um Rio Que Passou em Minha Vida",
+      "release_year": 1970,
+      "artist_credit": "Paulinho da Viola"
+    },
+    {
+      "id": "0a8d1d35-7d6f-5445-9529-d42adf591ba7",
+      "rank": 112,
+      "title": "A Página do Relâmpago Elétrico",
+      "release_year": 1977,
+      "artist_credit": "Beto Guedes"
+    },
+    {
+      "id": "8427f887-4091-5cc1-9b81-e20740c43416",
+      "rank": 113,
+      "title": "Nara",
+      "release_year": 1964,
+      "artist_credit": "Nara Leão"
+    },
+    {
+      "id": "90e80648-8508-5df5-91f5-04aac4d53cea",
+      "rank": 114,
+      "title": "Brasil",
+      "release_year": 1989,
+      "artist_credit": "Ratos de Porão"
+    },
+    {
+      "id": "cc25b5a9-b4db-5e63-aa47-ee4e2562da6b",
+      "rank": 115,
+      "title": "Nelson Cavaquinho",
+      "release_year": 1973,
+      "artist_credit": "Nelson Cavaquinho"
+    },
+    {
+      "id": "d89fbcf4-1586-51e4-a14e-b21b3a60b045",
+      "rank": 116,
+      "title": "Elis",
+      "release_year": 1972,
+      "artist_credit": "Elis Regina"
+    },
+    {
+      "id": "f5f4e9fd-3acc-5744-b8eb-6b2829cc0ed0",
+      "rank": 117,
+      "title": "Rita Lee",
+      "release_year": 1979,
+      "artist_credit": "Rita Lee"
+    },
+    {
+      "id": "22897b39-b368-5fed-903c-a7a90bd51b03",
+      "rank": 118,
+      "title": "A Sétima Efervescência",
+      "release_year": 1996,
+      "artist_credit": "Júpiter Maçã"
+    },
+    {
+      "id": "692714eb-6634-5bd8-9523-2625af3967a5",
+      "rank": 119,
+      "title": "Ideologia",
+      "release_year": 1988,
+      "artist_credit": "Cazuza"
+    },
+    {
+      "id": "55f1e6af-559d-58b6-8c81-a0e889824e3b",
+      "rank": 120,
+      "title": "Na Rua, Na Chuva, Na Fazenda",
+      "release_year": 1975,
+      "artist_credit": "Hyldon"
+    },
+    {
+      "id": "6dc34b75-2ae7-55d8-a2b0-94356bfc2237",
+      "rank": 121,
+      "title": "Caetano Veloso",
+      "release_year": 1969,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "c73c5dc1-3404-53a9-8c8d-9a524d5ac100",
+      "rank": 122,
+      "title": "Samba Esquema Noise",
+      "release_year": 1994,
+      "artist_credit": "Mundo Livre S/A"
+    },
+    {
+      "id": "911ddc44-87b1-57db-a583-81e3ab8b1963",
+      "rank": 123,
+      "title": "Mais",
+      "release_year": 1991,
+      "artist_credit": "Marisa Monte"
+    },
+    {
+      "id": "5c77c026-ed60-5bcb-aa74-415d6f1152e0",
+      "rank": 124,
+      "title": "Duas Cidades",
+      "release_year": 2016,
+      "artist_credit": "BaianaSystem"
+    },
+    {
+      "id": "52b4f58d-caf2-5deb-9561-e9641b2a2a23",
+      "rank": 125,
+      "title": "Calango",
+      "release_year": 1994,
+      "artist_credit": "Skank"
+    },
+    {
+      "id": "dd4931f3-b971-5305-b392-5ffb8ffd3171",
+      "rank": 126,
+      "title": "O Concreto Já Rachou",
+      "release_year": 1986,
+      "artist_credit": "Plebe Rude"
+    },
+    {
+      "id": "2d29ed8d-2ea1-53cf-9f69-8ad753a81105",
+      "rank": 127,
+      "title": "Sua Majestade – o Rei do Ritmo",
+      "release_year": 1960,
+      "artist_credit": "Jackson do Pandeiro"
+    },
+    {
+      "id": "035d2b95-62c5-5f40-8e8e-ba17912f7ec5",
+      "rank": 128,
+      "title": "Aracy de Almeida Apresenta Sambas de Noel Rosa",
+      "release_year": 1954,
+      "artist_credit": "Aracy de Almeida"
+    },
+    {
+      "id": "846c0bdb-8bac-5f2b-9dd8-06d6bd531f43",
+      "rank": 129,
+      "title": "Luz",
+      "release_year": 1982,
+      "artist_credit": "Djavan"
+    },
+    {
+      "id": "352c8396-e590-5e7f-8c13-60859f5498c4",
+      "rank": 130,
+      "title": "Acústico MTV",
+      "release_year": 2001,
+      "artist_credit": "Cássia Eller"
+    },
+    {
+      "id": "8c07730c-6ad5-5b4c-aae1-5be177c906e0",
+      "rank": 131,
+      "title": "Som, Sangue e Raça",
+      "release_year": 1971,
+      "artist_credit": "Dom Salvador e Abolição"
+    },
+    {
+      "id": "731a1d99-32c1-5624-b807-f1d3ab98492c",
+      "rank": 132,
+      "title": "Chico Buarque",
+      "release_year": 1978,
+      "artist_credit": "Chico Buarque"
+    },
+    {
+      "id": "b2cd6782-8e10-5681-823a-24d03b571b4a",
+      "rank": 133,
+      "title": "Essa Tal de Gang 90 & Absurdettes",
+      "release_year": 1983,
+      "artist_credit": "Gang 90 & Absurdettes"
+    },
+    {
+      "id": "09867937-287e-5ba2-a0eb-1deef795bcfa",
+      "rank": 134,
+      "title": "Mamonas Assassinas",
+      "release_year": 1995,
+      "artist_credit": "Mamonas Assassinas"
+    },
+    {
+      "id": "837016ab-ddb2-5163-9fd9-1251116e1b76",
+      "rank": 135,
+      "title": "Olho de Peixe",
+      "release_year": 1993,
+      "artist_credit": "Lenine e Marcos Suzano"
+    },
+    {
+      "id": "8e389eb4-a1cf-53c0-a1af-4933523deb3a",
+      "rank": 136,
+      "title": "Urubu",
+      "release_year": 1976,
+      "artist_credit": "Tom Jobim"
+    },
+    {
+      "id": "71fdf5f8-81b7-5f5c-b2cd-3fd8c2b90c62",
+      "rank": 137,
+      "title": "Slaves Mass",
+      "release_year": 1977,
+      "artist_credit": "Hermeto Pascoal"
+    },
+    {
+      "id": "c2af53e0-e8ca-589a-8cab-2289562bc9b8",
+      "rank": 138,
+      "title": "Barão Vermelho",
+      "release_year": 1982,
+      "artist_credit": "Barão Vermelho"
+    },
+    {
+      "id": "4dc27134-aa91-500b-a773-0cffe7299b94",
+      "rank": 139,
+      "title": "O Canto da Cidade",
+      "release_year": 1992,
+      "artist_credit": "Daniela Mercury"
+    },
+    {
+      "id": "8fa14167-ed84-5068-8403-5f3d5f0bb50a",
+      "rank": 140,
+      "title": "Paêbirú",
+      "release_year": 1976,
+      "artist_credit": "Lula Côrtes e Zé Ramalho"
+    },
+    {
+      "id": "cb1c7186-f80f-5bba-b6c6-51e58e7629d0",
+      "rank": 141,
+      "title": "O Inimitável",
+      "release_year": 1968,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "26b8f9fe-0633-5752-a520-8d4907c4099a",
+      "rank": 142,
+      "title": "Previsão do Tempo",
+      "release_year": 1973,
+      "artist_credit": "Marcos Valle"
+    },
+    {
+      "id": "325d46e4-5569-55d4-a8ce-91434084bcec",
+      "rank": 143,
+      "title": "Adoniran Barbosa",
+      "release_year": 1974,
+      "artist_credit": "Adoniran Barbosa"
+    },
+    {
+      "id": "66d7888e-b5fb-57f5-b46d-e7d21e454241",
+      "rank": 144,
+      "title": "Molhado de Suor",
+      "release_year": 1974,
+      "artist_credit": "Alceu Valença"
+    },
+    {
+      "id": "0856761e-4cff-5f17-930b-24d8c903e5f0",
+      "rank": 145,
+      "title": "As Quatro Estações",
+      "release_year": 1989,
+      "artist_credit": "Legião Urbana"
+    },
+    {
+      "id": "3c5737ee-2c8b-51aa-85bf-17f88451286b",
+      "rank": 146,
+      "title": "Gente da Antiga",
+      "release_year": 1968,
+      "artist_credit": "Pixinguinha, Clementina de Jesus e João da Baiana"
+    },
+    {
+      "id": "cb3c22dc-4aa0-5a0f-abfb-5e14ed31c509",
+      "rank": 147,
+      "title": "Psicoacústica",
+      "release_year": 1988,
+      "artist_credit": "Ira!"
+    },
+    {
+      "id": "90855e1f-417a-5db4-83fe-45be7ae9f189",
+      "rank": 148,
+      "title": "Roberto Carlos",
+      "release_year": 1969,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "616bf9a5-c1b4-5db9-8d27-285273fd0536",
+      "rank": 149,
+      "title": "Admirável Chip Novo",
+      "release_year": 2003,
+      "artist_credit": "Pitty"
+    },
+    {
+      "id": "024f4534-04f4-581d-9b4d-4e97581f3a80",
+      "rank": 150,
+      "title": "O Samba Poconé",
+      "release_year": 1996,
+      "artist_credit": "Skank"
+    },
+    {
+      "id": "3cdf479b-44bc-5855-8a85-d22422eee647",
+      "rank": 151,
+      "title": "Geraes",
+      "release_year": 1976,
+      "artist_credit": "Milton Nascimento"
+    },
+    {
+      "id": "c2c12e0c-4564-5ab0-b26b-b81f7a831ece",
+      "rank": 152,
+      "title": "Doces Bárbaros",
+      "release_year": 1976,
+      "artist_credit": "Doces Bárbaros (Maria Bethânia, Gilberto Gil, Caetano Veloso e Gal Costa)"
+    },
+    {
+      "id": "defcbc79-1581-52c7-bdb6-c239aef1f57c",
+      "rank": 153,
+      "title": "Imyra, Tayra, Ipy, Taiguara",
+      "release_year": 1976,
+      "artist_credit": "Taiguara"
+    },
+    {
+      "id": "1c03df81-3db4-5941-a059-2745d6301296",
+      "rank": 154,
+      "title": "Gilberto Gil",
+      "release_year": 1969,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "6260e374-9019-5ecf-8ef3-e3eb922a109b",
+      "rank": 155,
+      "title": "Novo Aeon",
+      "release_year": 1975,
+      "artist_credit": "Raul Seixas"
+    },
+    {
+      "id": "28952541-6a76-57f1-b056-9657c9489ee8",
+      "rank": 156,
+      "title": "Cosmotron",
+      "release_year": 2003,
+      "artist_credit": "Skank"
+    },
+    {
+      "id": "fca22fbf-9740-5823-81da-080207d79fea",
+      "rank": 157,
+      "title": "Espelho Cristalino",
+      "release_year": 1978,
+      "artist_credit": "Alceu Valença"
+    },
+    {
+      "id": "b6750e9a-3d4e-56f0-bdea-84788b35e874",
+      "rank": 158,
+      "title": "MM",
+      "release_year": 1989,
+      "artist_credit": "Marisa Monte"
+    },
+    {
+      "id": "d7709fa7-66e0-592d-a3db-f0fa7207ae70",
+      "rank": 159,
+      "title": "Crucificados pelo Sistema",
+      "release_year": 1984,
+      "artist_credit": "Ratos de Porão"
+    },
+    {
+      "id": "2bb17f54-f617-575a-875b-0f189aec42ba",
+      "rank": 160,
+      "title": "Pela Paz em Todo Mundo",
+      "release_year": 1986,
+      "artist_credit": "Cólera"
+    },
+    {
+      "id": "6d751122-4453-52ac-93ac-bc4dd5f7d697",
+      "rank": 161,
+      "title": "Tropix",
+      "release_year": 2016,
+      "artist_credit": "Céu"
+    },
+    {
+      "id": "c90caa13-3b3e-560e-8b8e-75756d9fb50f",
+      "rank": 162,
+      "title": "De Pé no Chão",
+      "release_year": 1978,
+      "artist_credit": "Beth Carvalho"
+    },
+    {
+      "id": "0b3c051b-2d83-5aa7-9a69-36cc3952673d",
+      "rank": 163,
+      "title": "Vivo!",
+      "release_year": 1976,
+      "artist_credit": "Alceu Valença"
+    },
+    {
+      "id": "3901d74b-0fb3-5cb4-8573-245b8e08ad11",
+      "rank": 164,
+      "title": "Rádio Pirata Ao Vivo",
+      "release_year": 1986,
+      "artist_credit": "RPM"
+    },
+    {
+      "id": "6f3a484b-dd40-5358-8206-7f257231ba0f",
+      "rank": 165,
+      "title": "Tim Maia",
+      "release_year": 1973,
+      "artist_credit": "Tim Maia"
+    },
+    {
+      "id": "88a71301-d3c5-5bad-a199-f44c48b0f9c2",
+      "rank": 166,
+      "title": "Com Você... Meu Mundo Ficaria Completo",
+      "release_year": 1999,
+      "artist_credit": "Cássia Eller"
+    },
+    {
+      "id": "46d0259b-a5a5-503f-a5f0-2ee50c1bae96",
+      "rank": 167,
+      "title": "Feminina",
+      "release_year": 1980,
+      "artist_credit": "Joyce"
+    },
+    {
+      "id": "1cb0b0d7-4ab7-555e-b99b-aabb3a991357",
+      "rank": 168,
+      "title": "Que País É Este 1978/1987",
+      "release_year": 1987,
+      "artist_credit": "Legião Urbana"
+    },
+    {
+      "id": "c14f9d1e-cefc-54ee-94de-fbad065ce059",
+      "rank": 169,
+      "title": "Preço Curto, Prazo Longo",
+      "release_year": 1999,
+      "artist_credit": "Charlie Brown Jr."
+    },
+    {
+      "id": "2c4a1a58-d6e4-57f6-a49e-6432aeeb7c12",
+      "rank": 170,
+      "title": "Di Melo",
+      "release_year": 1975,
+      "artist_credit": "Di Melo"
+    },
+    {
+      "id": "bfa5f6b2-007d-5385-af87-025a380dfe72",
+      "rank": 171,
+      "title": "D.J. Malboro Apresenta Funk Brasil",
+      "release_year": 1989,
+      "artist_credit": "vários artistas"
+    },
+    {
+      "id": "b777dc2e-874b-59d1-9ac5-0f6846a07ba1",
+      "rank": 172,
+      "title": "Elza Soares, Baterista: Wilson das Neves",
+      "release_year": 1968,
+      "artist_credit": "Elza Soares e Wilson das Neves"
+    },
+    {
+      "id": "1069cf3a-4db4-5a65-a848-d7cf6cdb08a6",
+      "rank": 173,
+      "title": "Mutantes e Seus Cometas no País do Baurets",
+      "release_year": 1972,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "db281d0f-70f7-54d6-ae61-14630544370f",
+      "rank": 174,
+      "title": "O Amor, o Sorriso e a Flor",
+      "release_year": 1960,
+      "artist_credit": "João Gilberto"
+    },
+    {
+      "id": "65e209f0-5380-5e75-b9a4-9141a6ae118b",
+      "rank": 175,
+      "title": "Arthur Verocai",
+      "release_year": 1972,
+      "artist_credit": "Arthur Verocai"
+    },
+    {
+      "id": "5018882b-c626-5e00-a931-1a4772834055",
+      "rank": 176,
+      "title": "O Grande Circo Místico",
+      "release_year": 1983,
+      "artist_credit": "Chico Buarque e Edu Lobo"
+    },
+    {
+      "id": "b90af45e-b7f4-5a0d-9e0c-eda1655eed66",
+      "rank": 177,
+      "title": "A Peleja do Diabo com o Dono do Céu",
+      "release_year": 1979,
+      "artist_credit": "Zé Ramalho"
+    },
+    {
+      "id": "4654a18a-c4ec-5a74-bf20-b769a4f2a59c",
+      "rank": 178,
+      "title": "66",
+      "release_year": 2012,
+      "artist_credit": "O Terno"
+    },
+    {
+      "id": "fc1ffede-a01b-5d80-b4b2-8d0f2e295698",
+      "rank": 179,
+      "title": "Claridade",
+      "release_year": 1975,
+      "artist_credit": "Clara Nunes"
+    },
+    {
+      "id": "c5c44c9b-af33-5157-b0a7-d872f9c2d650",
+      "rank": 180,
+      "title": "Jorge Ben",
+      "release_year": 1969,
+      "artist_credit": "Jorge Ben Jor"
+    },
+    {
+      "id": "8baeb5b5-10ec-595d-a5d2-335c57ce69c1",
+      "rank": 181,
+      "title": "Vida Bandida",
+      "release_year": 1987,
+      "artist_credit": "Lobão"
+    },
+    {
+      "id": "56fcdda2-fa3d-5be0-b040-43f76b71124a",
+      "rank": 182,
+      "title": "Novos Baianos",
+      "release_year": 1974,
+      "artist_credit": "Novos Baianos"
+    },
+    {
+      "id": "2d1933c5-5fb4-56af-875c-0295e9d2ab12",
+      "rank": 183,
+      "title": "Quarteto Novo",
+      "release_year": 1967,
+      "artist_credit": "Quarteto Novo"
+    },
+    {
+      "id": "63ceb43f-ff27-597c-806b-6ed2134759f0",
+      "rank": 184,
+      "title": "Joia",
+      "release_year": 1975,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "071635c2-7fec-58c2-b8d2-bf2bcc80b8ad",
+      "rank": 185,
+      "title": "Último Romântico",
+      "release_year": 1985,
+      "artist_credit": "Lulu Santos"
+    },
+    {
+      "id": "a08d346d-18e1-5f2c-ac79-95cec83b764d",
+      "rank": 186,
+      "title": "Drama - Anjo Exterminado",
+      "release_year": 1972,
+      "artist_credit": "Maria Bethânia"
+    },
+    {
+      "id": "cb4fd94f-6251-5388-bce0-83417d335461",
+      "rank": 187,
+      "title": "Opinião de Nara",
+      "release_year": 1964,
+      "artist_credit": "Nara Leão"
+    },
+    {
+      "id": "b2f211bb-d82c-5505-9441-2d8ab4a78c92",
+      "rank": 188,
+      "title": "Criaturas da Noite",
+      "release_year": 1975,
+      "artist_credit": "O Terço"
+    },
+    {
+      "id": "d7277783-4d9b-572f-ac9b-eff0cc413722",
+      "rank": 189,
+      "title": "Araçá Azul",
+      "release_year": 1973,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "595d910f-674f-53f4-ab9d-4000212b4fbe",
+      "rank": 190,
+      "title": "Mudança de Comportamento",
+      "release_year": 1985,
+      "artist_credit": "Ira!"
+    },
+    {
+      "id": "19e62423-ffa0-5648-8111-bd37db137ed1",
+      "rank": 191,
+      "title": "Terra",
+      "release_year": 1973,
+      "artist_credit": "Sá, Rodrix e Guarabyra"
+    },
+    {
+      "id": "9f78368f-2c04-55bd-b827-613f4d1c3398",
+      "rank": 192,
+      "title": "Francis Albert Sinatra & Antonio Carlos Jobim",
+      "release_year": 1967,
+      "artist_credit": "Frank Sinatra e Tom Jobim"
+    },
+    {
+      "id": "fb46d973-5231-549a-ad2a-e6aca6fa90fb",
+      "rank": 193,
+      "title": "Transpiração Contínua Prolongada",
+      "release_year": 1997,
+      "artist_credit": "Charlie Brown Jr."
+    },
+    {
+      "id": "9662127d-3524-5f22-a609-0a796ce02b1a",
+      "rank": 194,
+      "title": "Õ Blésq Blom",
+      "release_year": 1989,
+      "artist_credit": "Titãs"
+    },
+    {
+      "id": "7ce55707-672a-5871-9f7e-2832ee5c04a6",
+      "rank": 195,
+      "title": "Pânico em SP",
+      "release_year": 1986,
+      "artist_credit": "Inocentes"
+    },
+    {
+      "id": "b1814e81-af09-537b-ba9e-8becb64c3e26",
+      "rank": 196,
+      "title": "Snegs",
+      "release_year": 1974,
+      "artist_credit": "Som Nosso de Cada Dia"
+    },
+    {
+      "id": "068e8708-d9c8-5234-ad85-339c9b749711",
+      "rank": 197,
+      "title": "Qualquer Coisa",
+      "release_year": 1975,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "4990bbac-ef4f-5669-9d4a-24609e476117",
+      "rank": 198,
+      "title": "Manera Fru Fru, Manera: O Último Pau de Arara",
+      "release_year": 1973,
+      "artist_credit": "Fagner"
+    },
+    {
+      "id": "c2e51325-661f-580e-b459-51f3818b4ad7",
+      "rank": 199,
+      "title": "Estúpido Cupido",
+      "release_year": 1959,
+      "artist_credit": "Celly Campello"
+    },
+    {
+      "id": "0915ae2d-aa30-53c7-af48-f360584637e4",
+      "rank": 200,
+      "title": "Passado, Presente, Futuro",
+      "release_year": 1972,
+      "artist_credit": "Sá, Rodrix e Guarabyra"
+    },
+    {
+      "id": "59199cf6-310e-5bcb-b826-2747c3fe1d72",
+      "rank": 201,
+      "title": "O Adeus de Fellini",
+      "release_year": 1985,
+      "artist_credit": "Fellini"
+    },
+    {
+      "id": "4e884de9-5a8f-53c2-bbdd-cc76014fbd55",
+      "rank": 202,
+      "title": "Grito Suburbano",
+      "release_year": 1982,
+      "artist_credit": "Olho Seco, Inocentes e Cólera"
+    },
+    {
+      "id": "af746218-189a-5b53-98db-aa034ee32e78",
+      "rank": 203,
+      "title": "Jovem Guarda",
+      "release_year": 1965,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "456e772a-1cb3-5265-a6ef-72e7cd625855",
+      "rank": 204,
+      "title": "Fullgás",
+      "release_year": 1984,
+      "artist_credit": "Marina Lima"
+    },
+    {
+      "id": "f32fcc7c-71f1-5fe0-80d8-c2a0d57b2693",
+      "rank": 205,
+      "title": "São Paulo 1554/Hoje",
+      "release_year": 1976,
+      "artist_credit": "Joelho de Porco"
+    },
+    {
+      "id": "c54cea42-d4e3-5136-9ecd-ef4ec23fd0f8",
+      "rank": 206,
+      "title": "Violeta de Outono",
+      "release_year": 1987,
+      "artist_credit": "Violeta de Outono"
+    },
+    {
+      "id": "4816577d-a1c7-54fe-8095-ca9530fff687",
+      "rank": 207,
+      "title": "Lugar Comum",
+      "release_year": 1975,
+      "artist_credit": "João Donato"
+    },
+    {
+      "id": "c3dd9448-239c-5b45-ab24-b7f6b7fe854e",
+      "rank": 208,
+      "title": "Krishnanda",
+      "release_year": 1968,
+      "artist_credit": "Pedro Santos"
+    },
+    {
+      "id": "a48475a0-75a4-5ba3-9266-57a05ef8224c",
+      "rank": 209,
+      "title": "Dança das Cabeças",
+      "release_year": 1977,
+      "artist_credit": "Egberto Gismonti"
+    },
+    {
+      "id": "360bc8b4-daa6-5945-b738-4c1564d4f85b",
+      "rank": 210,
+      "title": "Som Imaginário",
+      "release_year": 1970,
+      "artist_credit": "Som Imaginário"
+    },
+    {
+      "id": "c37033ba-adee-567b-8ca0-3d77221289e9",
+      "rank": 211,
+      "title": "Cadê as Armas?",
+      "release_year": 1986,
+      "artist_credit": "As Mercenárias"
+    },
+    {
+      "id": "ced396da-5aba-522c-b0f4-e61e89cc390a",
+      "rank": 212,
+      "title": "Clementina de Jesus",
+      "release_year": 1966,
+      "artist_credit": "Clementina de Jesus"
+    },
+    {
+      "id": "fccadfbb-9561-5942-87b1-78115e6307fe",
+      "rank": 213,
+      "title": "Matança do Porco",
+      "release_year": 1973,
+      "artist_credit": "Som Imaginário"
+    },
+    {
+      "id": "d925db8c-1ab8-50e9-8120-b1e9993748f5",
+      "rank": 214,
+      "title": "Sociedade da Grã-Ordem Kavernista Apresenta Sessão das 10",
+      "release_year": 1971,
+      "artist_credit": "Raul Seixas, Sérgio Sampaio, Miriam Batucada e Edy Star"
+    },
+    {
+      "id": "46138e66-07cd-5450-98a8-a05eb0d120a4",
+      "rank": 215,
+      "title": "Rappa Mundi",
+      "release_year": 1996,
+      "artist_credit": "O Rappa"
+    },
+    {
+      "id": "47bcdbda-425e-5c8c-8e20-8946a438d294",
+      "rank": 216,
+      "title": "A Bad Donato",
+      "release_year": 1970,
+      "artist_credit": "João Donato"
+    },
+    {
+      "id": "0fba823c-2d72-50d2-9434-f46afa66bfdb",
+      "rank": 217,
+      "title": "20 Palavras ao redor do Sol",
+      "release_year": 1979,
+      "artist_credit": "Cátia de França"
+    },
+    {
+      "id": "ab39b872-2e25-5254-9b00-aea230aa4960",
+      "rank": 218,
+      "title": "50 Anos de Chão",
+      "release_year": 1988,
+      "artist_credit": "Luiz Gonzaga"
+    },
+    {
+      "id": "10e8d264-0581-546c-a4f7-79834e8104f6",
+      "rank": 219,
+      "title": "A Misteriosa Luta do Reino de Parassempre Contra o Império de Nuncamais",
+      "release_year": 1969,
+      "artist_credit": "Ronnie Von"
+    },
+    {
+      "id": "7d1f24fb-8cf0-5ba1-bbb1-38d48758fddd",
+      "rank": 220,
+      "title": "Alceu Valença e Geraldo Azevedo",
+      "release_year": 1972,
+      "artist_credit": "Alceu Valença e Geraldo Azevedo"
+    },
+    {
+      "id": "d0216ba1-04ea-512e-be9e-20a146029d24",
+      "rank": 221,
+      "title": "Ou Não",
+      "release_year": 1973,
+      "artist_credit": "Walter Franco"
+    },
+    {
+      "id": "f34d4595-0980-5b9c-a5e6-34b443082c53",
+      "rank": 222,
+      "title": "Prelude",
+      "release_year": 1973,
+      "artist_credit": "Eumir Deodato"
+    },
+    {
+      "id": "98269555-e3c5-581e-8f3f-e78bf88fcdf4",
+      "rank": 223,
+      "title": "Na Pressão",
+      "release_year": 1999,
+      "artist_credit": "Lenine"
+    },
+    {
+      "id": "4de1db44-7842-5fa0-9c24-0f0a4543929b",
+      "rank": 224,
+      "title": "The Astrud Gilberto Album",
+      "release_year": 1965,
+      "artist_credit": "Astrud Gilberto"
+    },
+    {
+      "id": "517d1a1b-3565-5cf2-b829-2bfe88bcf3e2",
+      "rank": 225,
+      "title": "Garra",
+      "release_year": 1971,
+      "artist_credit": "Marcos Valle"
+    },
+    {
+      "id": "8bb6d281-745c-5fea-9c0e-becb52f58fbb",
+      "rank": 226,
+      "title": "Egito Madagascar",
+      "release_year": 1987,
+      "artist_credit": "Olodum"
+    },
+    {
+      "id": "b01c0cf7-0d35-5981-adec-2b48b2c600cc",
+      "rank": 227,
+      "title": "Tudo Foi Feito pelo Sol",
+      "release_year": 1974,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "27704bff-940f-5647-9d11-06c4d8a1d21c",
+      "rank": 228,
+      "title": "Tente Mudar o Amanhã",
+      "release_year": 1985,
+      "artist_credit": "Cólera"
+    },
+    {
+      "id": "dbfa78d2-d640-5d69-854c-d88a5c2fad6e",
+      "rank": 229,
+      "title": "Aos Vivos",
+      "release_year": 1995,
+      "artist_credit": "Chico César"
+    },
+    {
+      "id": "f914ea28-e168-58b5-9cd5-b83908ecbd1b",
+      "rank": 230,
+      "title": "Ave Sangria",
+      "release_year": 1974,
+      "artist_credit": "Ave Sangria"
+    },
+    {
+      "id": "36edbe73-2712-5c1c-a2e6-e0b0bc12cf8a",
+      "rank": 231,
+      "title": "Stone Flower",
+      "release_year": 1971,
+      "artist_credit": "Tom Jobim"
+    },
+    {
+      "id": "443e7059-3b12-52b0-bb65-5be989a20e73",
+      "rank": 232,
+      "title": "A Banda Tropicalista do Duprat",
+      "release_year": 1968,
+      "artist_credit": "Rogério Duprat"
+    },
+    {
+      "id": "918d4824-0c7e-5e19-bcb6-39cfd22a6128",
+      "rank": 233,
+      "title": "Somos Todos Iguais Nesta Noite",
+      "release_year": 1977,
+      "artist_credit": "Ivan Lins"
+    },
+    {
+      "id": "37729dd7-87a0-55f0-a9a1-5c625a13895a",
+      "rank": 234,
+      "title": "Estrangeiro",
+      "release_year": 1989,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "7193d84b-b05c-5f83-9e50-1c46eabfed03",
+      "rank": 235,
+      "title": "Barulhinho Bom - Uma Viagem Musical",
+      "release_year": 1996,
+      "artist_credit": "Marisa Monte"
+    },
+    {
+      "id": "984a68f6-897a-52a5-9eba-49b7fd863e61",
+      "rank": 236,
+      "title": "Uma Tarde na Fruteira",
+      "release_year": 2008,
+      "artist_credit": "Júpiter Maçã"
+    },
+    {
+      "id": "4e97b26a-1cbf-5312-828b-38296026b436",
+      "rank": 237,
+      "title": "Elis",
+      "release_year": 1974,
+      "artist_credit": "Elis Regina"
+    },
+    {
+      "id": "2f6cac59-8944-55a9-a81a-18546058ab45",
+      "rank": 238,
+      "title": "A Máquina Voadora",
+      "release_year": 1970,
+      "artist_credit": "Ronnie Von"
+    },
+    {
+      "id": "995dc0f0-2bbf-5cf2-bc4b-59114369baab",
+      "rank": 239,
+      "title": "Seu Espião",
+      "release_year": 1984,
+      "artist_credit": "Kid Abelha e os Abóboras Selvagens"
+    },
+    {
+      "id": "d6af9807-3486-5bd3-ad89-47d9aef7aaa6",
+      "rank": 240,
+      "title": "O Ritmo do Momento",
+      "release_year": 1983,
+      "artist_credit": "Lulu Santos"
+    },
+    {
+      "id": "66070fac-7bfc-5690-ac26-144d824ff68a",
+      "rank": 241,
+      "title": "Voo de Coração",
+      "release_year": 1983,
+      "artist_credit": "Ritchie"
+    },
+    {
+      "id": "eb8ec463-763b-5c3f-aa4d-1ecaa3c852ea",
+      "rank": 242,
+      "title": "Jesus Não Tem Dentes no País dos Banguelas",
+      "release_year": 1987,
+      "artist_credit": "Titãs"
+    },
+    {
+      "id": "031cad71-74ff-59b7-b4a6-15191c0c12f4",
+      "rank": 243,
+      "title": "Nada como um Dia após o Outro Dia",
+      "release_year": 2002,
+      "artist_credit": "Racionais MC's"
+    },
+    {
+      "id": "b04751bf-56f0-5ddb-89a2-d3d0f53e3b94",
+      "rank": 244,
+      "title": "I Acto",
+      "release_year": 1973,
+      "artist_credit": "Zé Rodrix"
+    },
+    {
+      "id": "23358b39-38ad-568d-b8ee-92ddb76e474f",
+      "rank": 245,
+      "title": "Zabumbê-bum-á",
+      "release_year": 1979,
+      "artist_credit": "Hermeto Pascoal"
+    },
+    {
+      "id": "08d43095-24ef-5c57-88fb-fda245f4d745",
+      "rank": 246,
+      "title": "Academia de Danças",
+      "release_year": 1974,
+      "artist_credit": "Egberto Gismonti"
+    },
+    {
+      "id": "59f63c38-8497-5528-b0e4-1bc4308954f8",
+      "rank": 247,
+      "title": "Alvorecer",
+      "release_year": 1974,
+      "artist_credit": "Clara Nunes"
+    },
+    {
+      "id": "b424a0be-ee3b-5865-9ca3-8deba8cbbf5a",
+      "rank": 248,
+      "title": "Cê",
+      "release_year": 2006,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "3ba91877-a4bb-55a1-8c20-d1369c98bdcb",
+      "rank": 249,
+      "title": "Água do Céu - Pássaro",
+      "release_year": 1975,
+      "artist_credit": "Ney Matogrosso"
+    },
+    {
+      "id": "1d9acb21-fe1a-540b-96b0-80adbae69ad4",
+      "rank": 250,
+      "title": "Corações Futuristas",
+      "release_year": 1976,
+      "artist_credit": "Egberto Gismonti e Academia de Danças"
+    },
+    {
+      "id": "66031c72-6d50-5885-9076-26085413dddd",
+      "rank": 251,
+      "title": "A Voz, o Violão, a Música de Djavan",
+      "release_year": 1976,
+      "artist_credit": "Djavan"
+    },
+    {
+      "id": "bd254364-3062-5e72-b0ca-b7c61b6cb39a",
+      "rank": 252,
+      "title": "Tanto Tempo",
+      "release_year": 2000,
+      "artist_credit": "Bebel Gilberto"
+    },
+    {
+      "id": "44f935ca-b794-5930-bc56-fd26f591677d",
+      "rank": 253,
+      "title": "Carnaval na Obra",
+      "release_year": 1998,
+      "artist_credit": "Mundo Livre S/A"
+    },
+    {
+      "id": "451578a7-dab2-5887-8ba9-3e7ffc4171b4",
+      "rank": 254,
+      "title": "Um Violão em Primeiro Plano",
+      "release_year": 1971,
+      "artist_credit": "Rosinha de Valença"
+    },
+    {
+      "id": "012e49b3-b4bf-504b-ab3d-45ed4cc68b17",
+      "rank": 255,
+      "title": "Tem Que Acontecer",
+      "release_year": 1976,
+      "artist_credit": "Sérgio Sampaio"
+    },
+    {
+      "id": "5e82a519-e67d-5937-ae4b-efcc7b56454b",
+      "rank": 256,
+      "title": "Secos & Molhados",
+      "release_year": 1974,
+      "artist_credit": "Secos & Molhados"
+    },
+    {
+      "id": "02897967-3375-5c9f-9da1-b685e0dc0c89",
+      "rank": 257,
+      "title": "Ao Vivo no Teatro João Caetano",
+      "release_year": 1968,
+      "artist_credit": "Elizeth Cardoso, Jacob do Bandolim, Zimbo Trio e Conjunto Época de Ouro"
+    },
+    {
+      "id": "e139e63d-b4da-5422-b9e0-f679b37c25bc",
+      "rank": 258,
+      "title": "Terra dos Pássaros",
+      "release_year": 1980,
+      "artist_credit": "Toninho Horta e Orquestra Fantasma"
+    },
+    {
+      "id": "1dcf5c7f-648e-58fa-90ed-0ce3bb9346e0",
+      "rank": 259,
+      "title": "Disco Club",
+      "release_year": 1978,
+      "artist_credit": "Tim Maia"
+    },
+    {
+      "id": "61439fba-ee4d-54b5-ac63-b957895bea20",
+      "rank": 260,
+      "title": "Cena de Cinema",
+      "release_year": 1982,
+      "artist_credit": "Lobão"
+    },
+    {
+      "id": "8b7ef9e9-4950-586d-9924-83ef7be3124c",
+      "rank": 261,
+      "title": "Maravilhas Contemporâneas",
+      "release_year": 1976,
+      "artist_credit": "Luiz Melodia"
+    },
+    {
+      "id": "e1214237-075b-5955-b84c-88b560cd7433",
+      "rank": 262,
+      "title": "Edu Lobo",
+      "release_year": 1973,
+      "artist_credit": "Edu Lobo"
+    },
+    {
+      "id": "f74b6e9e-0352-5bc7-85c1-ac080627b5bb",
+      "rank": 263,
+      "title": "Televisão de Cachorro",
+      "release_year": 1998,
+      "artist_credit": "Pato Fu"
+    },
+    {
+      "id": "0f4058d8-4216-5008-8e7f-9917cafb4cbe",
+      "rank": 264,
+      "title": "A Revolta dos Dândis",
+      "release_year": 1987,
+      "artist_credit": "Engenheiros do Hawaii"
+    },
+    {
+      "id": "c2014cf3-b0ec-5e53-86c9-e5c47a5407ee",
+      "rank": 265,
+      "title": "É Ferro na Boneca",
+      "release_year": 1970,
+      "artist_credit": "Novos Baianos"
+    },
+    {
+      "id": "ed11fbec-8c75-52af-baa4-4989eeb58400",
+      "rank": 266,
+      "title": "Eu Vou p'ra Maracangalha",
+      "release_year": 1957,
+      "artist_credit": "Dorival Caymmi"
+    },
+    {
+      "id": "fdf0aa32-da72-5c0c-aa7d-c611f2cc514c",
+      "rank": 267,
+      "title": "Noel Rosa Pela Primeira Vez",
+      "release_year": 2000,
+      "artist_credit": "Noel Rosa"
+    },
+    {
+      "id": "71b988b5-d4e9-57eb-8647-9682da0df724",
+      "rank": 268,
+      "title": "Bicho de Sete Cabeças",
+      "release_year": 1993,
+      "artist_credit": "Itamar Assumpção"
+    },
+    {
+      "id": "22112c77-c487-506e-8ef9-ff29087e95d0",
+      "rank": 269,
+      "title": "Adoniran Barbosa",
+      "release_year": 1975,
+      "artist_credit": "Adoniran Barbosa"
+    },
+    {
+      "id": "c847b178-4ebd-5315-acb6-bf063b1205a6",
+      "rank": 270,
+      "title": "Maskavo Roots",
+      "release_year": 1994,
+      "artist_credit": "Maskavo Roots"
+    },
+    {
+      "id": "20f28308-5aaf-5530-ac7c-7ff93440c26a",
+      "rank": 271,
+      "title": "Sampa Midnight - Isso Não Vai Ficar Assim",
+      "release_year": 1985,
+      "artist_credit": "Itamar Assumpção"
+    },
+    {
+      "id": "66bc90ff-0c9f-53c5-8e35-68d901c5b41a",
+      "rank": 272,
+      "title": "Show Opinião",
+      "release_year": 1965,
+      "artist_credit": "Nara Leão, Zé Keti e João do Vale"
+    },
+    {
+      "id": "be1d99ff-e1f8-5498-a021-d1a6bccaa5ac",
+      "rank": 273,
+      "title": "O Canto dos Escravos",
+      "release_year": 1982,
+      "artist_credit": "Clementina de Jesus, Geraldo Filme e Tia Doca"
+    },
+    {
+      "id": "6762b371-20d0-595c-8a20-a0e4817f8f01",
+      "rank": 274,
+      "title": "Passarim",
+      "release_year": 1987,
+      "artist_credit": "Tom Jobim"
+    },
+    {
+      "id": "15922da7-2fbb-5c65-8c27-2df88399dcdd",
+      "rank": 275,
+      "title": "Karnak",
+      "release_year": 1995,
+      "artist_credit": "Karnak"
+    },
+    {
+      "id": "a265ae3a-f78d-5f6e-a014-d5267b608821",
+      "rank": 276,
+      "title": "A Invasão do Sagaz Homem Fumaça",
+      "release_year": 2000,
+      "artist_credit": "Planet Hemp"
+    },
+    {
+      "id": "8218cee4-2ca6-5285-a9db-8370785e0c87",
+      "rank": 277,
+      "title": "Boca Livre",
+      "release_year": 1979,
+      "artist_credit": "Boca Livre"
+    },
+    {
+      "id": "c7fed1d2-cf19-54ed-b2a1-03241947cdbb",
+      "rank": 278,
+      "title": "Cauby! Cauby!",
+      "release_year": 1980,
+      "artist_credit": "Cauby Peixoto"
+    },
+    {
+      "id": "1be947b9-ddf6-5d46-a8c6-5d9ec2cf6d2f",
+      "rank": 279,
+      "title": "Mudei de Ideia",
+      "release_year": 1971,
+      "artist_credit": "Antônio Carlos e Jocáfi"
+    },
+    {
+      "id": "6b27f594-373a-55fe-8d50-51af12b4aa3b",
+      "rank": 280,
+      "title": "Do Romance ao Galope Nordestino",
+      "release_year": 1974,
+      "artist_credit": "Quinteto Armorial"
+    },
+    {
+      "id": "b243e91a-3b39-5ed1-8d38-ccc37b943ee4",
+      "rank": 281,
+      "title": "Cowboy do Asfalto",
+      "release_year": 1990,
+      "artist_credit": "Chitãozinho & Xororó"
+    },
+    {
+      "id": "8de745d9-6b2b-53b8-85bf-1b76dd7ac32c",
+      "rank": 282,
+      "title": "Ao Vivo (Montreux Jazz)",
+      "release_year": 1979,
+      "artist_credit": "Hermeto Pascoal"
+    },
+    {
+      "id": "206ef201-a263-5392-a1dd-deefbedfee0c",
+      "rank": 283,
+      "title": "Cantando no Banheiro",
+      "release_year": 1983,
+      "artist_credit": "Eduardo Dussek"
+    },
+    {
+      "id": "a7f2dae6-63d8-5cf4-a5ec-65defc9a6593",
+      "rank": 284,
+      "title": "Cantar",
+      "release_year": 1974,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "cac30ef0-b499-59ea-a634-73940ee74d1d",
+      "rank": 285,
+      "title": "Capital Inicial",
+      "release_year": 1986,
+      "artist_credit": "Capital Inicial"
+    },
+    {
+      "id": "37d467af-a40a-5b3f-8fb0-efe23db6f816",
+      "rank": 286,
+      "title": "Se Acaso Você Chegasse",
+      "release_year": 1960,
+      "artist_credit": "Elza Soares"
+    },
+    {
+      "id": "79da390d-1850-5605-ad20-1e7efb1c7a9e",
+      "rank": 287,
+      "title": "Lavô Tá Novo",
+      "release_year": 1995,
+      "artist_credit": "Raimundos"
+    },
+    {
+      "id": "1196b0dd-c5a2-5844-8277-98c948f43df6",
+      "rank": 288,
+      "title": "Sobre Todas as Forças",
+      "release_year": 1994,
+      "artist_credit": "Cidade Negra"
+    },
+    {
+      "id": "16195b67-11b5-5556-9918-8b7c8e9e6abe",
+      "rank": 289,
+      "title": "Eu e Memê, Memê e Eu",
+      "release_year": 1995,
+      "artist_credit": "Lulu Santos"
+    },
+    {
+      "id": "a486a92a-4793-5e1c-86d4-ad01419db0e5",
+      "rank": 290,
+      "title": "Ney Matogrosso",
+      "release_year": 1981,
+      "artist_credit": "Ney Matogrosso"
+    },
+    {
+      "id": "5e5ef69a-471a-5d32-be24-d7504d11cbbf",
+      "rank": 291,
+      "title": "Raio X Brasil",
+      "release_year": 1993,
+      "artist_credit": "Racionais MC's"
+    },
+    {
+      "id": "b80e4eb8-7f35-5005-98ac-e5652161f4d5",
+      "rank": 292,
+      "title": "O Terço",
+      "release_year": 1970,
+      "artist_credit": "O Terço"
+    },
+    {
+      "id": "90bda9de-481d-5dd8-8b0d-37ace30431bf",
+      "rank": 293,
+      "title": "A Voz do Samba",
+      "release_year": 1975,
+      "artist_credit": "Alcione"
+    },
+    {
+      "id": "780f361e-a71b-5599-93da-f66a21615d87",
+      "rank": 294,
+      "title": "Orós",
+      "release_year": 1977,
+      "artist_credit": "Fagner"
+    },
+    {
+      "id": "74382aed-7e3d-5b25-bba8-863604eadbea",
+      "rank": 295,
+      "title": "Saúde",
+      "release_year": 1981,
+      "artist_credit": "Rita Lee e Roberto de Carvalho"
+    },
+    {
+      "id": "821c983c-46ea-554a-bdf7-5468ed9b2349",
+      "rank": 296,
+      "title": "Bicho",
+      "release_year": 1977,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "fed29c58-eace-52b2-b9c1-615e9e721888",
+      "rank": 297,
+      "title": "A Nova Dimensão do Samba",
+      "release_year": 1964,
+      "artist_credit": "Wilson Simonal"
+    },
+    {
+      "id": "b83a461f-3292-53b4-9a79-80f33e683161",
+      "rank": 298,
+      "title": "Almanaque",
+      "release_year": 1981,
+      "artist_credit": "Chico Buarque"
+    },
+    {
+      "id": "549d66cf-de22-585e-89eb-405652f29d28",
+      "rank": 299,
+      "title": "Gal Tropical",
+      "release_year": 1979,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "bdd7acfd-3222-50c5-ac2d-9dc8e27511a4",
+      "rank": 300,
+      "title": "Zeca Pagodinho",
+      "release_year": 1986,
+      "artist_credit": "Zeca Pagodinho"
+    },
+    {
+      "id": "8a9a5d05-0cd4-5d19-9791-665b435dedf6",
+      "rank": 301,
+      "title": "Manual ou Guia Livre de Dissolução dos Sonhos",
+      "release_year": 2015,
+      "artist_credit": "Boogarins"
+    },
+    {
+      "id": "4d06ffe2-6ac2-5cb7-95dd-2d6a2a370f06",
+      "rank": 302,
+      "title": "Cavalo de Pau",
+      "release_year": 1982,
+      "artist_credit": "Alceu Valença"
+    },
+    {
+      "id": "ae521741-bf5e-5a71-94f0-a25f494d7c35",
+      "rank": 303,
+      "title": "Muito - Dentro da Estrela Azulada",
+      "release_year": 1978,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "4e51919f-9d03-5231-bef9-cefe98cba3d6",
+      "rank": 304,
+      "title": "Supercarioca",
+      "release_year": 1988,
+      "artist_credit": "Picassos Falsos"
+    },
+    {
+      "id": "b8191af7-5fad-5f2b-abc1-2e17f9564d61",
+      "rank": 305,
+      "title": "Do Cóccix até o Pescoço",
+      "release_year": 2002,
+      "artist_credit": "Elza Soares"
+    },
+    {
+      "id": "f4f99eab-fb09-559c-9242-846515e97ec9",
+      "rank": 306,
+      "title": "Acústico MTV",
+      "release_year": 1997,
+      "artist_credit": "Titãs"
+    },
+    {
+      "id": "f1c7c161-c772-56fe-9aff-5af78dedd6a9",
+      "rank": 307,
+      "title": "Recomeçar",
+      "release_year": 2017,
+      "artist_credit": "Tim Bernardes"
+    },
+    {
+      "id": "91e9ff02-9665-55c3-96e0-91f87398cd9f",
+      "rank": 308,
+      "title": "Catavento e Girassol",
+      "release_year": 1996,
+      "artist_credit": "Leila Pinheiro"
+    },
+    {
+      "id": "56154c00-5cfc-5042-a9d6-873db697fab5",
+      "rank": 309,
+      "title": "As Canções Que Você Fez pra Mim",
+      "release_year": 1993,
+      "artist_credit": "Maria Bethânia"
+    },
+    {
+      "id": "ecea57e0-e102-5e2b-a275-75b1867f49f6",
+      "rank": 310,
+      "title": "Velô",
+      "release_year": 1984,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "512b3571-ccb0-5600-bc47-0296c8b26c5c",
+      "rank": 311,
+      "title": "Orfeu da Conceição",
+      "release_year": 1956,
+      "artist_credit": "Tom Jobim e Vinicius de Moraes"
+    },
+    {
+      "id": "6d214cd0-2a8b-5fc4-b9a8-d51a2a645fb7",
+      "rank": 312,
+      "title": "Certa Manhã Acordei de Sonhos Intranquilos",
+      "release_year": 2009,
+      "artist_credit": "Otto"
+    },
+    {
+      "id": "d351498e-280a-5bf0-acc9-5d02ebca9237",
+      "rank": 313,
+      "title": "Cansei de Ser Sexy",
+      "release_year": 2005,
+      "artist_credit": "Cansei de Ser Sexy"
+    },
+    {
+      "id": "aa0d7bf4-51a2-59a6-af7b-0b022c276052",
+      "rank": 314,
+      "title": "Galos de Briga",
+      "release_year": 1976,
+      "artist_credit": "João Bosco"
+    },
+    {
+      "id": "7f9cd165-c13e-5521-bb13-b475a10ecd11",
+      "rank": 315,
+      "title": "Imagem e Som",
+      "release_year": 1971,
+      "artist_credit": "Cassiano"
+    },
+    {
+      "id": "f39f50d6-2052-50f9-851f-88f19c0c79c1",
+      "rank": 316,
+      "title": "Os Cães Ladram mas a Caravana Não Pára",
+      "release_year": 1997,
+      "artist_credit": "Planet Hemp"
+    },
+    {
+      "id": "877f7b27-cf44-5c22-803d-40505d54833f",
+      "rank": 317,
+      "title": "Ao Vivo em Tatuí",
+      "release_year": 1992,
+      "artist_credit": "Renato Teixeira, Pena Branca & Xavantinho"
+    },
+    {
+      "id": "cc0dc964-87f0-5832-9c90-b7d58c64e2bd",
+      "rank": 318,
+      "title": "Maria Rita",
+      "release_year": 2003,
+      "artist_credit": "Maria Rita"
+    },
+    {
+      "id": "b646bb65-5c56-5454-822d-d775889e207d",
+      "rank": 319,
+      "title": "Lar de Maravilhas",
+      "release_year": 1975,
+      "artist_credit": "Casa das Máquinas"
+    },
+    {
+      "id": "3e5460b8-0844-5ab9-aef5-10312d25c9d8",
+      "rank": 320,
+      "title": "Vibrações",
+      "release_year": 1967,
+      "artist_credit": "Jacob do Bandolim & seu Conjunto Época de Ouro"
+    },
+    {
+      "id": "e113ffe2-e7d4-5dab-8418-69cad06f8959",
+      "rank": 321,
+      "title": "Convite para Ouvir Maysa",
+      "release_year": 1956,
+      "artist_credit": "Maysa"
+    },
+    {
+      "id": "63cf4e32-aca9-5a56-94be-6d45f15d8d21",
+      "rank": 322,
+      "title": "Severino",
+      "release_year": 1994,
+      "artist_credit": "Os Paralamas do Sucesso"
+    },
+    {
+      "id": "e69b02c2-0e12-5ecb-aa17-83c7cd92c637",
+      "rank": 323,
+      "title": "Arise",
+      "release_year": 1991,
+      "artist_credit": "Sepultura"
+    },
+    {
+      "id": "bcf18e3d-9dfd-526e-b911-9c039363cf4c",
+      "rank": 324,
+      "title": "Feito em Casa",
+      "release_year": 1977,
+      "artist_credit": "Antonio Adolfo"
+    },
+    {
+      "id": "92e8aef8-782c-5e72-935c-035d5cc33afd",
+      "rank": 325,
+      "title": "Gol de Quem?",
+      "release_year": 1995,
+      "artist_credit": "Pato Fu"
+    },
+    {
+      "id": "f7a44b13-e24d-5238-ac5c-9cee1e923fdb",
+      "rank": 326,
+      "title": "Índia",
+      "release_year": 1973,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "a4ebfa81-02d3-5d30-8d72-8b129a3f38d3",
+      "rank": 327,
+      "title": "A Volta do Boêmio",
+      "release_year": 1967,
+      "artist_credit": "Nelson Gonçalves"
+    },
+    {
+      "id": "6111fad7-1654-5cb4-9b6c-7d658656847a",
+      "rank": 328,
+      "title": "Jackson do Pandeiro",
+      "release_year": 1959,
+      "artist_credit": "Jackson do Pandeiro"
+    },
+    {
+      "id": "173e8916-b150-59a1-85d3-50a1c056ec68",
+      "rank": 329,
+      "title": "Babylon by Gus - Vol. I: O Ano do Macaco",
+      "release_year": 2004,
+      "artist_credit": "Black Alien"
+    },
+    {
+      "id": "4fad08b8-80b1-5d8c-afa8-1f3a6eae19f1",
+      "rank": 330,
+      "title": "Tecnicolor",
+      "release_year": 2000,
+      "artist_credit": "Os Mutantes"
+    },
+    {
+      "id": "82b9a6d6-805f-521a-aa46-cf8175672b05",
+      "rank": 331,
+      "title": "Samba pra Burro",
+      "release_year": 1998,
+      "artist_credit": "Otto"
+    },
+    {
+      "id": "464a7b2c-e0c5-5ee8-b781-df3263702c9d",
+      "rank": 332,
+      "title": "Os Saltimbancos",
+      "release_year": 1977,
+      "artist_credit": "Chico Buarque"
+    },
+    {
+      "id": "e6d0e972-bd4f-5126-b5be-c2baa440311f",
+      "rank": 333,
+      "title": "Caetano e Chico Juntos e Ao Vivo",
+      "release_year": 1972,
+      "artist_credit": "Caetano Veloso e Chico Buarque"
+    },
+    {
+      "id": "0e4970c4-ae22-5277-b65a-57d021e9fa3a",
+      "rank": 334,
+      "title": "Som Nosso",
+      "release_year": 1977,
+      "artist_credit": "Som Nosso de Cada Dia"
+    },
+    {
+      "id": "dc34de2a-88db-5df9-8532-4833d456d400",
+      "rank": 335,
+      "title": "Olorum",
+      "release_year": 2020,
+      "artist_credit": "Mateus Aleluia"
+    },
+    {
+      "id": "f5fc197c-98e1-539c-ab59-7ccf544ec083",
+      "rank": 336,
+      "title": "Edison Machado é Samba Novo",
+      "release_year": 1964,
+      "artist_credit": "Edison Machado"
+    },
+    {
+      "id": "629da33b-3457-5245-97d0-d3d1ac0d7ce0",
+      "rank": 337,
+      "title": "Fala Mangueira!",
+      "release_year": 1968,
+      "artist_credit": "Cartola, Carlos Cachaça, Clementina de Jesus, Nelson Cavaquinho e Odete Amaral"
+    },
+    {
+      "id": "cb7b4e60-8de4-5ce2-bf2d-5919634d15bb",
+      "rank": 338,
+      "title": "Sonhos e Memórias 1941-1972",
+      "release_year": 1972,
+      "artist_credit": "Erasmo Carlos"
+    },
+    {
+      "id": "20d57efa-9d82-5f21-953c-397d9ae7e176",
+      "rank": 339,
+      "title": "5 Companheiros",
+      "release_year": 1958,
+      "artist_credit": "Pixinguinha e os Chorões Daquele Tempo"
+    },
+    {
+      "id": "dc380225-65cd-5e0c-9e45-be23b4a2ef2d",
+      "rank": 340,
+      "title": "Sambas de Caymmi",
+      "release_year": 1955,
+      "artist_credit": "Dorival Caymmi"
+    },
+    {
+      "id": "1f8ba0c4-0a84-53ce-a383-f05c8c43368f",
+      "rank": 341,
+      "title": "Corra o Risco",
+      "release_year": 1978,
+      "artist_credit": "Olivia Byington e A Barca do Sol"
+    },
+    {
+      "id": "6f15c89f-56af-5f5f-a050-a3fea6afc91f",
+      "rank": 342,
+      "title": "A Pescaria",
+      "release_year": 1965,
+      "artist_credit": "Erasmo Carlos"
+    },
+    {
+      "id": "e98e2742-94a3-552d-9695-93bad8a505db",
+      "rank": 343,
+      "title": "Novos Baianos F.C.",
+      "release_year": 1973,
+      "artist_credit": "Novos Baianos"
+    },
+    {
+      "id": "3728356e-db8f-5b97-8eb5-39bfce41767c",
+      "rank": 344,
+      "title": "Sinto Muito",
+      "release_year": 2018,
+      "artist_credit": "Duda Beat"
+    },
+    {
+      "id": "7cf13d35-2040-544c-86ff-e2760516f0e5",
+      "rank": 345,
+      "title": "Sobre Todas as Coisas",
+      "release_year": 1991,
+      "artist_credit": "Zizi Possi"
+    },
+    {
+      "id": "b259150c-d5b1-54d0-bff6-6d154a9dc0d5",
+      "rank": 346,
+      "title": "Angels Cry",
+      "release_year": 1993,
+      "artist_credit": "Angra"
+    },
+    {
+      "id": "bd158090-f988-52b7-93cd-bc918f5fc5ea",
+      "rank": 347,
+      "title": "Acústico MTV",
+      "release_year": 2000,
+      "artist_credit": "Capital Inicial"
+    },
+    {
+      "id": "ea85a3da-37cb-5f66-9e98-5a5c574f36cf",
+      "rank": 348,
+      "title": "Sonho 70",
+      "release_year": 1970,
+      "artist_credit": "Egberto Gismonti"
+    },
+    {
+      "id": "42045082-792c-5297-bd3f-155a98be21e4",
+      "rank": 349,
+      "title": "Corredor Polonês",
+      "release_year": 1987,
+      "artist_credit": "Patife Band"
+    },
+    {
+      "id": "c02736ca-7fce-577b-9d38-e23a210e8ca5",
+      "rank": 350,
+      "title": "Toni Tornado",
+      "release_year": 1971,
+      "artist_credit": "Tony Tornado"
+    },
+    {
+      "id": "2545972d-d9bb-5d69-8bf6-ee70f18de661",
+      "rank": 351,
+      "title": "Alumbramento",
+      "release_year": 1980,
+      "artist_credit": "Djavan"
+    },
+    {
+      "id": "88aa955b-a3be-51e7-a7b2-68b7e93ab4b0",
+      "rank": 352,
+      "title": "O Menino Que Queria Ser Deus",
+      "release_year": 2018,
+      "artist_credit": "Djonga e Coyote Beatz"
+    },
+    {
+      "id": "3471725e-b770-5eb9-a5d5-e9e63c151b64",
+      "rank": 353,
+      "title": "Brasil",
+      "release_year": 1981,
+      "artist_credit": "João Gilberto, Caetano Veloso, Gilberto Gil e Maria Bethânia"
+    },
+    {
+      "id": "d1bda402-05a2-5e21-a18c-0e759542527e",
+      "rank": 354,
+      "title": "Bicho de 7 Cabeças",
+      "release_year": 1979,
+      "artist_credit": "Geraldo Azevedo"
+    },
+    {
+      "id": "3128c4ac-9dd4-5aa5-8715-69483f60d1c5",
+      "rank": 355,
+      "title": "O Futuro é Vortex",
+      "release_year": 1986,
+      "artist_credit": "Os Replicantes"
+    },
+    {
+      "id": "7f458f5f-3626-5ed1-afbf-b0cfc7232d3d",
+      "rank": 356,
+      "title": "Azimüth",
+      "release_year": 1975,
+      "artist_credit": "Azymuth"
+    },
+    {
+      "id": "b56f93c3-012b-5475-9119-0537e69956f3",
+      "rank": 357,
+      "title": "Ofertório",
+      "release_year": 2018,
+      "artist_credit": "Caetano Veloso, Moreno Veloso, Zeca Veloso e Tom Veloso"
+    },
+    {
+      "id": "db343271-202f-5fe9-99c8-4922f4838487",
+      "rank": 358,
+      "title": "A Música de Edu Lobo por Edu Lobo",
+      "release_year": 1965,
+      "artist_credit": "Edu Lobo"
+    },
+    {
+      "id": "8b7c7f9b-860c-564f-b34a-96e10a9fecc4",
+      "rank": 359,
+      "title": "Alerta Geral",
+      "release_year": 1978,
+      "artist_credit": "Alcione"
+    },
+    {
+      "id": "121f3ef0-727a-5ad4-b5af-179cdb683b5b",
+      "rank": 360,
+      "title": "Ouro Negro",
+      "release_year": 2001,
+      "artist_credit": "Mario Adnet, Zé Nogueira e Banda Ouro Negro"
+    },
+    {
+      "id": "ebd65e90-5920-5f9b-b43d-a4bd4574f263",
+      "rank": 361,
+      "title": "Tom Zé",
+      "release_year": 1968,
+      "artist_credit": "Tom Zé"
+    },
+    {
+      "id": "4a262a6d-0c43-59e6-a825-15f3a342cbef",
+      "rank": 362,
+      "title": "Raça Humana",
+      "release_year": 1984,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "6250ab51-5839-5747-b5bb-b9980c4e72e1",
+      "rank": 363,
+      "title": "João Voz e Violão",
+      "release_year": 2000,
+      "artist_credit": "João Gilberto"
+    },
+    {
+      "id": "e4a98422-7868-52dc-a994-7cfa565c727b",
+      "rank": 364,
+      "title": "Herb Alpert presents Sergio Mendes & Brazil 66",
+      "release_year": 1966,
+      "artist_credit": "Sérgio Mendes & Brasil 66"
+    },
+    {
+      "id": "4a9d1600-cdff-50de-b487-3e01fa2b331a",
+      "rank": 365,
+      "title": "Sorriso Negro",
+      "release_year": 1981,
+      "artist_credit": "Dona Ivone Lara"
+    },
+    {
+      "id": "2d45aa66-8f7a-5144-9da9-553bf57ce70d",
+      "rank": 366,
+      "title": "Brasileirinho",
+      "release_year": 2003,
+      "artist_credit": "Maria Bethânia"
+    },
+    {
+      "id": "736c654c-8da5-5673-8515-719279b22b12",
+      "rank": 367,
+      "title": "Às Próprias Custas S.A",
+      "release_year": 1983,
+      "artist_credit": "Itamar Assumpção"
+    },
+    {
+      "id": "d27455f6-456b-5bce-a016-eb7f2400151a",
+      "rank": 368,
+      "title": "De Volta ao Começo",
+      "release_year": 1980,
+      "artist_credit": "Gonzaguinha"
+    },
+    {
+      "id": "4ce68bbe-20cb-5748-a7a8-cab3afac55b1",
+      "rank": 369,
+      "title": "Por Favor, Sucesso",
+      "release_year": 1969,
+      "artist_credit": "Liverpool"
+    },
+    {
+      "id": "df9168bc-2283-54f9-8106-5ee51fb8dcae",
+      "rank": 370,
+      "title": "Moto Perpétuo",
+      "release_year": 1974,
+      "artist_credit": "Moto Perpétuo"
+    },
+    {
+      "id": "b0fc9e8c-31e0-52a6-9b2c-4ce89a88f78d",
+      "rank": 371,
+      "title": "Samba É no Fundo de Quintal",
+      "release_year": 1980,
+      "artist_credit": "Fundo de Quintal"
+    },
+    {
+      "id": "4a0bbc71-4348-5303-9a6c-e1ad91a88118",
+      "rank": 372,
+      "title": "Caetano Veloso",
+      "release_year": 1971,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "e353f3e9-9b33-5c61-8c6f-247a2083e677",
+      "rank": 373,
+      "title": "Feito pra Acabar",
+      "release_year": 2010,
+      "artist_credit": "Marcelo Jeneci"
+    },
+    {
+      "id": "0ac1a0b5-33f5-5842-9af1-6a516e18df66",
+      "rank": 374,
+      "title": "Little Electric Chicken Heart",
+      "release_year": 2019,
+      "artist_credit": "Ana Frango Elétrico"
+    },
+    {
+      "id": "53b1176f-adee-512c-aa13-f9329dd3b0e6",
+      "rank": 375,
+      "title": "Cinema Mudo",
+      "release_year": 1983,
+      "artist_credit": "Os Paralamas do Sucesso"
+    },
+    {
+      "id": "18754172-ca3a-5200-94c4-93cc330e09fe",
+      "rank": 376,
+      "title": "DeFalla",
+      "release_year": 1987,
+      "artist_credit": "DeFalla"
+    },
+    {
+      "id": "88520941-79d8-5349-a316-6d47bd20ea79",
+      "rank": 377,
+      "title": "Deus É Mulher",
+      "release_year": 2018,
+      "artist_credit": "Elza Soares"
+    },
+    {
+      "id": "186912e8-e65e-5237-9201-3246ab07a7a9",
+      "rank": 378,
+      "title": "Voz e Suor",
+      "release_year": 1983,
+      "artist_credit": "Nana Caymmi e César Camargo Mariano"
+    },
+    {
+      "id": "3ca63eff-e55e-54ce-a0bc-a09677b3a05b",
+      "rank": 379,
+      "title": "O Futuro Não Demora",
+      "release_year": 2019,
+      "artist_credit": "BaianaSystem"
+    },
+    {
+      "id": "d699edff-20f6-5483-851f-419d192fc6b0",
+      "rank": 380,
+      "title": "Música e Ciência",
+      "release_year": 1988,
+      "artist_credit": "Os Mulheres Negras"
+    },
+    {
+      "id": "5c7d57b6-3c3b-5722-aef9-4a6ae88dd0d4",
+      "rank": 381,
+      "title": "Pergunte a Quem Conhece",
+      "release_year": 1989,
+      "artist_credit": "Thaíde & DJ Hum"
+    },
+    {
+      "id": "83fd1780-0c8d-5c19-85bb-72464186adb7",
+      "rank": 382,
+      "title": "Ramilonga - A Estética do Frio",
+      "release_year": 1997,
+      "artist_credit": "Vitor Ramil"
+    },
+    {
+      "id": "b17f96a3-dc79-596e-88ca-602e62f043db",
+      "rank": 383,
+      "title": "Educação Sentimental",
+      "release_year": 1985,
+      "artist_credit": "Kid Abelha e os Abóboras Selvagens"
+    },
+    {
+      "id": "851e10e9-31ff-525f-9fa0-bdc543ae6476",
+      "rank": 384,
+      "title": "Lírou Quêiol en de Méd Bârds",
+      "release_year": 1994,
+      "artist_credit": "Little Quail and The Mad Birds"
+    },
+    {
+      "id": "9a1856a6-15b1-583d-b0c2-d0cc4c5aa268",
+      "rank": 385,
+      "title": "Amor Louco",
+      "release_year": 1990,
+      "artist_credit": "Fellini"
+    },
+    {
+      "id": "d3af0f08-c28d-57c6-8c2a-9545e5653c23",
+      "rank": 386,
+      "title": "Alô Malandragem, Maloca o Flagrante!",
+      "release_year": 1986,
+      "artist_credit": "Bezerra da Silva"
+    },
+    {
+      "id": "a4b3bce2-2cc2-5bbd-8753-96b71fe89d3a",
+      "rank": 387,
+      "title": "Djavan ao Vivo",
+      "release_year": 1999,
+      "artist_credit": "Djavan"
+    },
+    {
+      "id": "2f8ea01b-959c-5ee2-8996-165517e3fb95",
+      "rank": 388,
+      "title": "V",
+      "release_year": 1991,
+      "artist_credit": "Legião Urbana"
+    },
+    {
+      "id": "4608ee29-acfd-5b2b-857e-c164ebba9e10",
+      "rank": 389,
+      "title": "Caymmi",
+      "release_year": 1972,
+      "artist_credit": "Dorival Caymmi"
+    },
+    {
+      "id": "ed29a191-46cd-53bd-b3fd-2ceda8138842",
+      "rank": 390,
+      "title": "A Via-Láctea",
+      "release_year": 1979,
+      "artist_credit": "Lô Borges"
+    },
+    {
+      "id": "64a2d800-3887-5054-9b74-7f6d77daa3b7",
+      "rank": 391,
+      "title": "Força Bruta",
+      "release_year": 1970,
+      "artist_credit": "Jorge Ben Jor"
+    },
+    {
+      "id": "71a0d76c-90de-5378-ba60-1c0168f33493",
+      "rank": 392,
+      "title": "Ronnie Von",
+      "release_year": 1969,
+      "artist_credit": "Ronnie Von"
+    },
+    {
+      "id": "6263b9d4-23ff-5dae-838a-b1b0273162a1",
+      "rank": 393,
+      "title": "Paulinho da Viola (1971 - disco 1) e Paulinho da Viola (1971 - disco 2)",
+      "release_year": 1971,
+      "artist_credit": "Paulinho da Viola"
+    },
+    {
+      "id": "8f1151c7-1b24-57f6-b728-bf14a9ca3980",
+      "rank": 394,
+      "title": "A Barca do Sol",
+      "release_year": 1974,
+      "artist_credit": "A Barca do Sol"
+    },
+    {
+      "id": "082e17d6-4f3f-519c-b590-f086555b92b0",
+      "rank": 395,
+      "title": "Mel",
+      "release_year": 1979,
+      "artist_credit": "Maria Bethânia"
+    },
+    {
+      "id": "3a6bc528-2ad8-5780-9d6c-f68fa20b7449",
+      "rank": 396,
+      "title": "Unplugged",
+      "release_year": 1994,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "3953241d-1946-560e-baa1-54d4422b1fc7",
+      "rank": 397,
+      "title": "Gal Canta Caymmi",
+      "release_year": 1976,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "0b0871fc-2a77-579e-b587-6ba2403169c2",
+      "rank": 398,
+      "title": "Aprender a nadar",
+      "release_year": 1974,
+      "artist_credit": "Jards Macalé"
+    },
+    {
+      "id": "2f03ecfa-21bc-5b80-ba04-f86df9a40d96",
+      "rank": 399,
+      "title": "Schizophrenia",
+      "release_year": 1987,
+      "artist_credit": "Sepultura"
+    },
+    {
+      "id": "1223d442-2c2f-55a0-8fee-93e24c25f71a",
+      "rank": 400,
+      "title": "João Gilberto in Tokyo",
+      "release_year": 2004,
+      "artist_credit": "João Gilberto"
+    },
+    {
+      "id": "5805e681-2c45-5aa1-8de4-b1b5d37ae5ad",
+      "rank": 401,
+      "title": "Titãs",
+      "release_year": 1984,
+      "artist_credit": "Titãs"
+    },
+    {
+      "id": "7851cae2-c219-5100-b64e-e1894913dc70",
+      "rank": 402,
+      "title": "Antes do Fim",
+      "release_year": 1986,
+      "artist_credit": "Dorsal Atlântica"
+    },
+    {
+      "id": "2a8f9b16-b12f-58c3-8ae9-764a0a321dca",
+      "rank": 403,
+      "title": "...Das Barrancas do Rio Gavião",
+      "release_year": 1973,
+      "artist_credit": "Elomar"
+    },
+    {
+      "id": "2408f98a-46e8-522b-98d4-8b088ac17b5b",
+      "rank": 404,
+      "title": "Longe Demais das Capitais",
+      "release_year": 1986,
+      "artist_credit": "Engenheiros do Hawaii"
+    },
+    {
+      "id": "86aae9fb-95e1-5bd1-8c18-c527ebc5dd42",
+      "rank": 405,
+      "title": "Sobre Crianças, Quadris, Pesadelos e Lições de Casa...",
+      "release_year": 2015,
+      "artist_credit": "Emicida"
+    },
+    {
+      "id": "518041d1-d9f4-5912-9ebb-48f99f99e7cd",
+      "rank": 406,
+      "title": "Cantoria",
+      "release_year": 1984,
+      "artist_credit": "Elomar, Geraldo Azevedo, Vital Farias e Xangai"
+    },
+    {
+      "id": "0bc4003c-fa40-5896-9f50-80545b6c25b3",
+      "rank": 407,
+      "title": "O Dia em Que Faremos Contato",
+      "release_year": 1997,
+      "artist_credit": "Lenine"
+    },
+    {
+      "id": "9882b3b6-3699-5685-8e2f-0909b3c9ffb1",
+      "rank": 408,
+      "title": "Rap Brasil",
+      "release_year": 1995,
+      "artist_credit": "Vários artistas"
+    },
+    {
+      "id": "a01b439a-952f-56c0-a3bb-74b0c9c0a6df",
+      "rank": 409,
+      "title": "Johnny Alf",
+      "release_year": 1965,
+      "artist_credit": "Johnny Alf"
+    },
+    {
+      "id": "78e3b902-ef9e-5bdd-8888-beb1d4393629",
+      "rank": 410,
+      "title": "Guilherme Lamounier",
+      "release_year": 1973,
+      "artist_credit": "Guilherme Lamounier"
+    },
+    {
+      "id": "d3180ca2-fd06-5c25-a332-1cb5e9640d18",
+      "rank": 411,
+      "title": "Amor de Índio",
+      "release_year": 1978,
+      "artist_credit": "Beto Guedes"
+    },
+    {
+      "id": "7c74fcc1-e1ed-541d-8918-872f8b8efb29",
+      "rank": 412,
+      "title": "Quanta",
+      "release_year": 1997,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "e8e068fd-0c99-594c-a3e9-889caa49f67d",
+      "rank": 413,
+      "title": "Bebadosamba",
+      "release_year": 1996,
+      "artist_credit": "Paulinho da Viola"
+    },
+    {
+      "id": "b60d563d-ce38-5520-8788-71e850bf1d13",
+      "rank": 414,
+      "title": "Ben",
+      "release_year": 1972,
+      "artist_credit": "Jorge Ben Jor"
+    },
+    {
+      "id": "27856bc7-50a6-5518-93c6-1e29ba0418c3",
+      "rank": 415,
+      "title": "Circuladô",
+      "release_year": 1991,
+      "artist_credit": "Caetano Veloso"
+    },
+    {
+      "id": "805682db-410d-5b90-b7b5-a3c02c0ceb74",
+      "rank": 416,
+      "title": "O Filho de José e Maria",
+      "release_year": 1977,
+      "artist_credit": "Odair José"
+    },
+    {
+      "id": "8256c603-f81b-5344-8759-4c4906a2e1c0",
+      "rank": 417,
+      "title": "Brazilian Nuggets: Back from the Jungle, Volume 1",
+      "release_year": 2011,
+      "artist_credit": "Vários artistas"
+    },
+    {
+      "id": "0666a8fa-c56c-5a62-993c-0bcc082ab8ec",
+      "rank": 418,
+      "title": "Radioatividade",
+      "release_year": 1983,
+      "artist_credit": "Blitz"
+    },
+    {
+      "id": "046c0c70-c7f6-59e2-b840-1ffb4bf47f2c",
+      "rank": 419,
+      "title": "Tropicália 2",
+      "release_year": 1993,
+      "artist_credit": "Caetano Veloso e Gilberto Gil"
+    },
+    {
+      "id": "f809d731-d5c3-5447-a55e-bae60641d85e",
+      "rank": 420,
+      "title": "Hoje É o Primeiro Dia do Resto da Sua Vida",
+      "release_year": 1972,
+      "artist_credit": "Rita Lee"
+    },
+    {
+      "id": "cf834b38-52e2-543e-ae6c-dc35a9bea623",
+      "rank": 421,
+      "title": "Manual Prático para Festas, Bailes e Afins",
+      "release_year": 1997,
+      "artist_credit": "Ed Motta"
+    },
+    {
+      "id": "90e4d75e-10a2-58d2-8e27-b63a99cd221a",
+      "rank": 422,
+      "title": "Diletantismo",
+      "release_year": 1983,
+      "artist_credit": "Rumo"
+    },
+    {
+      "id": "d008c814-a461-5bb5-b1da-9a3e171dde79",
+      "rank": 423,
+      "title": "A Arca de Noé",
+      "release_year": 1980,
+      "artist_credit": "Vinicius de Moraes"
+    },
+    {
+      "id": "66ebded1-4cdc-5921-834a-415ee335e7ac",
+      "rank": 424,
+      "title": "Você Ainda Não Ouviu Nada!",
+      "release_year": 1964,
+      "artist_credit": "Sérgio Mendes & Bossa Rio"
+    },
+    {
+      "id": "8c405572-82dd-57ba-8a56-87fc21b08ceb",
+      "rank": 425,
+      "title": "Mora na Filosofia dos Sambas de Monsueto",
+      "release_year": 1962,
+      "artist_credit": "Monsueto"
+    },
+    {
+      "id": "f018762a-0091-5cda-9e4a-c6a0a774a0b2",
+      "rank": 426,
+      "title": "Você Me Acende",
+      "release_year": 1966,
+      "artist_credit": "Erasmo Carlos"
+    },
+    {
+      "id": "90fa4af9-5585-5f9d-8d3e-a51f6d5fbad6",
+      "rank": 427,
+      "title": "Build Up",
+      "release_year": 1970,
+      "artist_credit": "Rita Lee"
+    },
+    {
+      "id": "2d9113a0-2f53-5b34-a37d-4f5ab71aaeb4",
+      "rank": 428,
+      "title": "Tom Zé",
+      "release_year": 1972,
+      "artist_credit": "Tom Zé"
+    },
+    {
+      "id": "87ce1192-fe3b-5db9-96d2-b896f2fc4fc3",
+      "rank": 429,
+      "title": "A Maestrina",
+      "release_year": 2000,
+      "artist_credit": "Chiquinha Gonzaga"
+    },
+    {
+      "id": "d2047a72-14a4-5f0d-ac9b-58edc5f183ea",
+      "rank": 430,
+      "title": "Feijão com Arroz",
+      "release_year": 1996,
+      "artist_credit": "Daniela Mercury"
+    },
+    {
+      "id": "3bae869c-be73-5c57-92fb-5fa07aa7f5d2",
+      "rank": 431,
+      "title": "Edu & Tom, Tom & Edu",
+      "release_year": 1981,
+      "artist_credit": "Edu Lobo e Tom Jobim"
+    },
+    {
+      "id": "1968c001-7742-5bae-9491-54492df1cc36",
+      "rank": 432,
+      "title": "Efêmera",
+      "release_year": 2010,
+      "artist_credit": "Tulipa Ruiz"
+    },
+    {
+      "id": "3fe21ee7-b9d1-512e-96db-53af7e872c9b",
+      "rank": 433,
+      "title": "Camisa de Vênus",
+      "release_year": 1983,
+      "artist_credit": "Camisa de Vênus"
+    },
+    {
+      "id": "74efc764-6cc3-589f-91a8-1b5e760e7725",
+      "rank": 434,
+      "title": "Yamandú",
+      "release_year": 2001,
+      "artist_credit": "Yamandu Costa"
+    },
+    {
+      "id": "5b935676-ce37-55f5-a596-02a5db50794b",
+      "rank": 435,
+      "title": "Jorge Mautner",
+      "release_year": 1974,
+      "artist_credit": "Jorge Mautner"
+    },
+    {
+      "id": "281c9283-23d1-5998-9d42-ede0d88aedbd",
+      "rank": 436,
+      "title": "Sessão da Tarde",
+      "release_year": 1985,
+      "artist_credit": "Leo Jaime"
+    },
+    {
+      "id": "9a2203b8-57bb-5ab7-be50-de1fd38ab1cf",
+      "rank": 437,
+      "title": "São Paulo Confessions",
+      "release_year": 1999,
+      "artist_credit": "Suba"
+    },
+    {
+      "id": "69565bc3-a1ed-5813-a1f1-1445cfd62158",
+      "rank": 438,
+      "title": "Deixa a Vida Me Levar",
+      "release_year": 2002,
+      "artist_credit": "Zeca Pagodinho"
+    },
+    {
+      "id": "3cbb2437-6bfc-5b21-b73a-fcddce6135a3",
+      "rank": 439,
+      "title": "Trem Azul",
+      "release_year": 1982,
+      "artist_credit": "Elis Regina"
+    },
+    {
+      "id": "a80dc072-ad6a-5971-bca2-a9c148938916",
+      "rank": 440,
+      "title": "Foi no Mês Que Vem",
+      "release_year": 2013,
+      "artist_credit": "Vitor Ramil"
+    },
+    {
+      "id": "aaaceb90-c7e0-52e1-9659-1620820c090e",
+      "rank": 441,
+      "title": "Quadra",
+      "release_year": 2020,
+      "artist_credit": "Sepultura"
+    },
+    {
+      "id": "8e59c446-28c5-54c7-911f-b9b9b189b15c",
+      "rank": 442,
+      "title": "Alegria, Alegria Vol. 2 ou Quem Não Tem Swing Morre com a Boca Cheia de Formiga",
+      "release_year": 1968,
+      "artist_credit": "Wilson Simonal"
+    },
+    {
+      "id": "ff5408d5-523a-5ea3-a328-eb21ce8defb2",
+      "rank": 443,
+      "title": "Espelho",
+      "release_year": 1977,
+      "artist_credit": "João Nogueira"
+    },
+    {
+      "id": "079f5f5a-fd3d-5323-bb9f-0c0f6190474b",
+      "rank": 444,
+      "title": "Dois Amigos, Um Século de Música",
+      "release_year": 2015,
+      "artist_credit": "Caetano Veloso e Gilberto Gil"
+    },
+    {
+      "id": "67087aa5-a53e-56b4-8b11-804515613c69",
+      "rank": 445,
+      "title": "Samba Minha Verdade, Minha Raiz",
+      "release_year": 1978,
+      "artist_credit": "Dona Ivone Lara"
+    },
+    {
+      "id": "bea0e840-bbf0-5b80-af2f-47b5070a5684",
+      "rank": 446,
+      "title": "A Cor do Som",
+      "release_year": 1977,
+      "artist_credit": "A Cor do Som"
+    },
+    {
+      "id": "64c2a640-b6d3-551b-94a1-790e2b503b80",
+      "rank": 447,
+      "title": "Som Quente É o das Neves",
+      "release_year": 1969,
+      "artist_credit": "Wilson das Neves"
+    },
+    {
+      "id": "1f6a94a7-8459-5ad0-ad67-0fd04631bb47",
+      "rank": 448,
+      "title": "Orlandivo",
+      "release_year": 1977,
+      "artist_credit": "Orlandivo"
+    },
+    {
+      "id": "8f751b98-d240-59da-87d4-fb6733ca4a7c",
+      "rank": 449,
+      "title": "Cabeça de Nego",
+      "release_year": 1986,
+      "artist_credit": "João Bosco"
+    },
+    {
+      "id": "724f83b3-7850-5d8b-a56f-51fc025eb420",
+      "rank": 450,
+      "title": "Músicas para Churrasco, Vol. 1",
+      "release_year": 2011,
+      "artist_credit": "Seu Jorge"
+    },
+    {
+      "id": "a19fa8a3-75cb-5ffe-9774-baf66d6322bc",
+      "rank": 451,
+      "title": "Entradas e Bandeiras",
+      "release_year": 1976,
+      "artist_credit": "Rita Lee e Tutti Frutti"
+    },
+    {
+      "id": "93b83cf3-db12-5f50-8132-991d746710d3",
+      "rank": 452,
+      "title": "Odair José",
+      "release_year": 1973,
+      "artist_credit": "Odair José"
+    },
+    {
+      "id": "6ad0d5f1-7982-5e40-ad8e-cc65be4d1c1e",
+      "rank": 453,
+      "title": "Vagarosa",
+      "release_year": 2009,
+      "artist_credit": "Céu"
+    },
+    {
+      "id": "001d8094-9c38-52bb-9e71-e4200cd6f7b1",
+      "rank": 454,
+      "title": "Coisa de Louco II",
+      "release_year": 1995,
+      "artist_credit": "Graforréia Xilarmônica"
+    },
+    {
+      "id": "3336e044-5bfd-50cc-9325-3542bc5a2bb6",
+      "rank": 455,
+      "title": "Metá Metá",
+      "release_year": 2011,
+      "artist_credit": "Metá Metá"
+    },
+    {
+      "id": "983613ad-a35a-5f48-ac52-e1da590472c7",
+      "rank": 456,
+      "title": "...Em Pleno Verão",
+      "release_year": 1970,
+      "artist_credit": "Elis Regina"
+    },
+    {
+      "id": "ea4ebd82-2a3f-5231-80c8-8668216ca1f0",
+      "rank": 457,
+      "title": "Omindá",
+      "release_year": 2018,
+      "artist_credit": "André Abujamra"
+    },
+    {
+      "id": "4fcf66b7-596a-590a-8c8c-2023a8a1df85",
+      "rank": 458,
+      "title": "Apresentamos Nosso Cassiano",
+      "release_year": 1973,
+      "artist_credit": "Cassiano"
+    },
+    {
+      "id": "4b83fb2a-a1e5-5742-84fa-555d127292f1",
+      "rank": 459,
+      "title": "Eis o \"Ôme\"",
+      "release_year": 1969,
+      "artist_credit": "Noriel Vilela"
+    },
+    {
+      "id": "34fc45b9-b541-5dd0-8b81-340733355e33",
+      "rank": 460,
+      "title": "Roberto Carlos",
+      "release_year": 1970,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "a09207cc-43b9-58b4-bff0-0c03c06e8bb6",
+      "rank": 461,
+      "title": "Acústico MTV",
+      "release_year": 2002,
+      "artist_credit": "Kid Abelha"
+    },
+    {
+      "id": "083e4d2a-c839-5f74-8ef9-2a60a74e406c",
+      "rank": 462,
+      "title": "Coração Selvagem",
+      "release_year": 1977,
+      "artist_credit": "Belchior"
+    },
+    {
+      "id": "80796e13-9289-5386-8579-849ffa0da54d",
+      "rank": 463,
+      "title": "Tornado Muito Nervoso 2",
+      "release_year": 2002,
+      "artist_credit": "Vários artistas"
+    },
+    {
+      "id": "617bb36c-1c2c-5ff5-ba9c-8aa48dbdb0ea",
+      "rank": 464,
+      "title": "A Fábrica do Poema",
+      "release_year": 1994,
+      "artist_credit": "Adriana Calcanhotto"
+    },
+    {
+      "id": "fa56e7a9-af2a-5302-8fca-95115ef271ef",
+      "rank": 465,
+      "title": "As Próximas Horas Serão Muito Boas",
+      "release_year": 2004,
+      "artist_credit": "Cachorro Grande"
+    },
+    {
+      "id": "94e9efdf-0e39-5d5a-afa4-756b9f70b240",
+      "rank": 466,
+      "title": "Verde Que Te Quero Rosa",
+      "release_year": 1977,
+      "artist_credit": "Cartola"
+    },
+    {
+      "id": "c3fdc459-dd51-5120-ad11-d7dc2f55a25e",
+      "rank": 467,
+      "title": "Orquestra Afro-Brasileira",
+      "release_year": 1968,
+      "artist_credit": "Orquestra Afro-Brasileira"
+    },
+    {
+      "id": "f0bd58a3-6690-5a27-94d0-3550cea2c695",
+      "rank": 468,
+      "title": "Wilson Simonal Tem \"Algo Mais\"",
+      "release_year": 1963,
+      "artist_credit": "Wilson Simonal"
+    },
+    {
+      "id": "cfeb1d5a-45df-518a-bc78-71dda744e3ab",
+      "rank": 469,
+      "title": "Jackson do Pandeiro",
+      "release_year": 1955,
+      "artist_credit": "Jackson do Pandeiro"
+    },
+    {
+      "id": "41959605-d271-5869-a705-a19e34f9f9d3",
+      "rank": 470,
+      "title": "Boogie Naipe",
+      "release_year": 2016,
+      "artist_credit": "Mano Brown"
+    },
+    {
+      "id": "4ff393e6-daad-57f8-b8fe-fe3deb9ec751",
+      "rank": 471,
+      "title": "Cássia Eller",
+      "release_year": 1994,
+      "artist_credit": "Cássia Eller"
+    },
+    {
+      "id": "a9101157-68f1-581c-bc24-86ae4d8239ab",
+      "rank": 472,
+      "title": "Roberto Carlos",
+      "release_year": 1972,
+      "artist_credit": "Roberto Carlos"
+    },
+    {
+      "id": "e79a9de7-f42d-54f3-b3d9-c582c6ca2fda",
+      "rank": 473,
+      "title": "Éter",
+      "release_year": 2015,
+      "artist_credit": "Scalene"
+    },
+    {
+      "id": "60131aa3-3bfc-5b80-b987-bed4c9a5f179",
+      "rank": 474,
+      "title": "Lilás",
+      "release_year": 1984,
+      "artist_credit": "Djavan"
+    },
+    {
+      "id": "89af15da-c1ec-5654-bab5-6367f5a32da9",
+      "rank": 475,
+      "title": "Brasil Mestiço",
+      "release_year": 1980,
+      "artist_credit": "Clara Nunes"
+    },
+    {
+      "id": "991952fe-9b71-5089-889f-e68ac6abfdeb",
+      "rank": 476,
+      "title": "Arthur Moreira Lima Interpreta Ernesto Nazareth",
+      "release_year": 1975,
+      "artist_credit": "Arthur Moreira Lima"
+    },
+    {
+      "id": "5fb9420b-bf50-5dbf-b065-17e50a98158c",
+      "rank": 477,
+      "title": "Lá Vem o Brasil Descendo a Ladeira",
+      "release_year": 1979,
+      "artist_credit": "Moraes Moreira"
+    },
+    {
+      "id": "58365376-e3a6-5478-80cd-254a378a086a",
+      "rank": 478,
+      "title": "Passarinho Urbano",
+      "release_year": 1976,
+      "artist_credit": "Joyce"
+    },
+    {
+      "id": "a5ff90c4-dd4b-53d3-8426-52ac1453cbde",
+      "rank": 479,
+      "title": "Clube da Esquina 2",
+      "release_year": 1978,
+      "artist_credit": "Milton Nascimento"
+    },
+    {
+      "id": "2ad7413b-8d6a-5b62-84a6-dae4923fd596",
+      "rank": 480,
+      "title": "Frevo Mulher",
+      "release_year": 1979,
+      "artist_credit": "Amelinha"
+    },
+    {
+      "id": "944bb538-0b78-53ca-b3d1-9bd7f9bc8c88",
+      "rank": 481,
+      "title": "A Bossa Negra",
+      "release_year": 1960,
+      "artist_credit": "Elza Soares"
+    },
+    {
+      "id": "4c1971d0-0c7a-5414-8a52-acc3d6d853f2",
+      "rank": 482,
+      "title": "Kleiton & Kledir",
+      "release_year": 1981,
+      "artist_credit": "Kleiton & Kledir"
+    },
+    {
+      "id": "5cc1d674-294b-522c-a586-e90f7bc4cde1",
+      "rank": 483,
+      "title": "Despertar",
+      "release_year": 1985,
+      "artist_credit": "Guilherme Arantes"
+    },
+    {
+      "id": "7a6e2bce-9bee-554f-b665-473f9b953ac3",
+      "rank": 484,
+      "title": "Não Fale com Paredes",
+      "release_year": 1972,
+      "artist_credit": "Módulo 1000"
+    },
+    {
+      "id": "92653a17-9bea-5660-b2c1-b7fcf8f065bd",
+      "rank": 485,
+      "title": "O Romance do Pavão Mysteriozo",
+      "release_year": 1974,
+      "artist_credit": "Ednardo"
+    },
+    {
+      "id": "efe6981f-9303-55aa-a431-aafbd6bfb2a1",
+      "rank": 486,
+      "title": "Atrás do Porto Tem uma Cidade",
+      "release_year": 1974,
+      "artist_credit": "Rita Lee e Tutti Frutti"
+    },
+    {
+      "id": "c6a21050-ae79-5364-9de9-29f929ef66a2",
+      "rank": 487,
+      "title": "Modo Livre",
+      "release_year": 1974,
+      "artist_credit": "Ivan Lins"
+    },
+    {
+      "id": "ff7af61d-50ae-5d35-915d-113cf296bde7",
+      "rank": 488,
+      "title": "MetaL MetaL",
+      "release_year": 2012,
+      "artist_credit": "Metá Metá"
+    },
+    {
+      "id": "1289d392-def4-5fbd-8fbf-545349544eb6",
+      "rank": 489,
+      "title": "Nadadenovo",
+      "release_year": 2004,
+      "artist_credit": "Mombojó"
+    },
+    {
+      "id": "f905a2cd-5b4f-5a7a-88bd-2d86583b5fb7",
+      "rank": 490,
+      "title": "Um Banda Um",
+      "release_year": 1982,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "784577d3-dd51-5bdf-9b2c-a2cc7646af69",
+      "rank": 491,
+      "title": "Memórias Cantando",
+      "release_year": 1976,
+      "artist_credit": "Paulinho da Viola"
+    },
+    {
+      "id": "f1f6eac9-0298-5c39-90f4-dbfdd66519ed",
+      "rank": 492,
+      "title": "São Paulo - Brasil",
+      "release_year": 1977,
+      "artist_credit": "Cesar Mariano & Cia"
+    },
+    {
+      "id": "5432c485-a253-585a-bb04-97bbb455b61d",
+      "rank": 493,
+      "title": "Imunidade Musical",
+      "release_year": 2005,
+      "artist_credit": "Charlie Brown Jr."
+    },
+    {
+      "id": "258ccfc4-9695-554d-b2dc-457f0193eb65",
+      "rank": 494,
+      "title": "Legal",
+      "release_year": 1970,
+      "artist_credit": "Gal Costa"
+    },
+    {
+      "id": "1f41fb04-ad0e-58df-8321-490de549d5f4",
+      "rank": 495,
+      "title": "Saudade do Brasil",
+      "release_year": 1980,
+      "artist_credit": "Elis Regina"
+    },
+    {
+      "id": "82264528-898c-54b7-9e3e-f85081929640",
+      "rank": 496,
+      "title": "Emílio Santiago",
+      "release_year": 1975,
+      "artist_credit": "Emílio Santiago"
+    },
+    {
+      "id": "f791e905-7882-56f5-862e-d6f3fae53962",
+      "rank": 497,
+      "title": "Respire Fundo",
+      "release_year": 1978,
+      "artist_credit": "Walter Franco"
+    },
+    {
+      "id": "02a77b73-d9ac-59e2-a74d-b3c1d371b4ce",
+      "rank": 498,
+      "title": "Luar (A Gente Precisa Ver o Luar)",
+      "release_year": 1981,
+      "artist_credit": "Gilberto Gil"
+    },
+    {
+      "id": "ae0ce1a1-0b01-5f91-97b2-861035fe8768",
+      "rank": 499,
+      "title": "Matriz",
+      "release_year": 2019,
+      "artist_credit": "Pitty"
+    },
+    {
+      "id": "6cf8a1d9-3c79-5644-9a51-a3d0e3ea5548",
+      "rank": 500,
+      "title": "Virgem",
+      "release_year": 1987,
+      "artist_credit": "Marina Lima"
+    }
+  ]
+}

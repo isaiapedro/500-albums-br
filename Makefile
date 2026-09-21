@@ -1,7 +1,7 @@
-.PHONY: up down logs status test
+.PHONY: up down logs status test backup restore
 
 up:
-	docker compose up --build -d
+	docker compose up --build -d --wait
 
 down:
 	docker compose down
@@ -13,4 +13,10 @@ status:
 	docker compose ps
 
 test:
-	docker compose exec api pytest
+	cd api && python3 -m pytest
+
+backup:
+	./scripts/backup.sh
+
+restore:
+	./scripts/restore.sh
