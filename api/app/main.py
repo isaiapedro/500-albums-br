@@ -181,7 +181,7 @@ def album_payload(album: StaticAlbum) -> AlbumResponse:
     return AlbumResponse(
         id=str(album.id), rank=album.rank, title=album.title,
         artist_credit=album.artist_credit, release_year=album.release_year,
-        cover_url=f"/static/{cover.path}" if cover else None,
+        cover_url=f"/static/{cover.path}?v=20260929" if cover else None,
     )
 
 

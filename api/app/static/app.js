@@ -13,12 +13,13 @@ async function request(path, options) {
   return response.status === 204 ? null : response.json();
 }
 
-function header() {
+function header(project = null) {
   const element = document.createElement("header");
   element.className = "site-header";
   element.innerHTML = `
     <a class="brand" href="/"><span>500</span> discos brasileiros</a>
-    <span class="local-mark">privado e local</span>`;
+    <span class="local-mark">local e particular</span>
+    ${project ? `<div class="progress-copy" aria-label="${project.progress} de ${project.total} discos revelados"><strong>${project.progress} / ${project.total}</strong><br />discos revelados<div class="progress-track"><span style="width: ${(project.progress / project.total) * 100}%"></span></div></div>` : ""}`;
   return element;
 }
 
@@ -101,24 +102,17 @@ async function renderHome() {
 
 function journeyFrame(project, section) {
   const fragment = document.createDocumentFragment();
-  fragment.append(header());
+  fragment.append(header(project));
   const main = document.createElement("main");
   main.id = "content";
   main.className = "journey-main";
   main.innerHTML = `
-    <section class="journey-intro">
-      <div><p class="kicker">Sua lista</p><h1 id="journey-name"></h1></div>
-      <div class="progress-copy"><strong id="progress-value"></strong><br />discos revelados<div class="progress-track"><span id="progress-bar"></span></div></div>
-    </section>
     <nav class="tabs" aria-label="Seções da jornada">
       <a class="tab" data-section="today">Hoje</a>
       <a class="tab" data-section="history">Histórico</a>
     </nav>
     <section class="view" id="view" aria-live="polite"><p>Carregando…</p></section>
     `;
-  main.querySelector("#journey-name").textContent = project.name;
-  main.querySelector("#progress-value").textContent = `${project.progress} / ${project.total}`;
-  main.querySelector("#progress-bar").style.width = `${(project.progress / project.total) * 100}%`;
   main.querySelectorAll(".tab").forEach((link) => {
     const target = link.dataset.section;
     link.href = target === "today"
@@ -225,7 +219,7 @@ function ratingForm(assignment, project, onSaved, compactSuccess = false) {
   return form;
 }
 
-function renderAlbum(parent, assignment, project, inactiveDays = 0) {
+function renderAlbum(parent, assignment, project) {
   const layout = document.createElement("div");
   layout.className = "today-layout";
   layout.append(cover(assignment.album));
@@ -235,28 +229,32 @@ function renderAlbum(parent, assignment, project, inactiveDays = 0) {
   detail.querySelector("h2").textContent = assignment.album.title;
   detail.querySelector(".artist").textContent = assignment.album.artist_credit;
   detail.querySelector(".album-meta").textContent = assignment.album.release_year || "";
-  const activity = document.createElement("div");
-  activity.className = "today-activity";
-  activity.innerHTML = `<p>Seu álbum de hoje foi atualizado automaticamente.</p><button class="button button-secondary" type="button">Mostrar novo álbum</button><p class="status" role="status"></p>`;
-  const button = activity.querySelector("button");
+  detail.append(ratingForm(assignment, project, undefined, true));
+  layout.append(detail);
+  parent.replaceChildren(layout);
+}
+
+function renderReveal(parent, project) {
+  parent.innerHTML = `
+    <div class="empty-today">
+      <p class="kicker">Pronto para ouvir?</p>
+      <h2>Seu próximo disco está esperando.</h2>
+      <p>Mostre o primeiro álbum para iniciar a atualização diária da sua lista.</p>
+      <button class="button" type="button">Mostrar novo álbum</button>
+      <p class="status" role="status"></p>
+    </div>`;
+  const button = parent.querySelector("button");
   button.addEventListener("click", async () => {
     button.disabled = true;
-    setStatus(activity.querySelector(".status"), "Confirmando o álbum de hoje…");
+    setStatus(parent.querySelector(".status"), "Escolhendo o próximo disco…");
     try {
       const revealed = await request(`/api/v1/journeys/${encodeURIComponent(project.slug)}/today`, { method: "POST" });
       renderAlbum(parent, revealed, project);
     } catch (error) {
-      setStatus(activity.querySelector(".status"), error.message, true);
+      setStatus(parent.querySelector(".status"), error.message, true);
       button.disabled = false;
     }
   });
-  if (inactiveDays > 0) {
-    activity.querySelector("p").textContent = `Seu álbum de hoje foi atualizado automaticamente. Clique para manter a lista ativa (${inactiveDays} dia${inactiveDays === 1 ? "" : "s"} sem clicar).`;
-  }
-  detail.append(activity);
-  detail.append(ratingForm(assignment, project, undefined, true));
-  layout.append(detail);
-  parent.replaceChildren(layout);
 }
 
 async function renderToday(view, project) {
@@ -266,31 +264,15 @@ async function renderToday(view, project) {
       view.innerHTML = `<div class="empty-today"><p class="kicker">Lista congelada</p><h2>Sua lista foi congelada por inatividade.</h2><p>Você não clicou em “Mostrar novo álbum” por 3 dias consecutivos. Os discos já revelados continuam disponíveis no histórico.</p></div>`;
       return;
     }
-    if (rollout.assignment) return renderAlbum(view, rollout.assignment, project, rollout.inactive_days);
+    if (rollout.assignment) {
+      if (rollout.inactive_days > 0) return renderReveal(view, project);
+      return renderAlbum(view, rollout.assignment, project);
+    }
     if (rollout.state === "complete") {
       view.innerHTML = `<div class="empty-today"><p class="kicker">Jornada concluída</p><h2>Você revelou todos os discos desta lista.</h2></div>`;
       return;
     }
-    view.innerHTML = `
-      <div class="empty-today">
-        <p class="kicker">Pronto para ouvir?</p>
-        <h2>Seu próximo disco está esperando.</h2>
-        <p>Mostre o primeiro álbum para iniciar a atualização diária da sua lista.</p>
-        <button class="button" type="button">Mostrar novo álbum</button>
-        <p class="status" role="status"></p>
-      </div>`;
-    const button = view.querySelector("button");
-    button.addEventListener("click", async () => {
-      button.disabled = true;
-      setStatus(view.querySelector(".status"), "Escolhendo o próximo disco…");
-      try {
-        const revealed = await request(`/api/v1/journeys/${encodeURIComponent(project.slug)}/today`, { method: "POST" });
-        renderAlbum(view, revealed, project);
-      } catch (error) {
-        setStatus(view.querySelector(".status"), error.message, true);
-        button.disabled = false;
-      }
-    });
+    renderReveal(view, project);
   } catch (error) { view.textContent = error.message; }
 }
 
